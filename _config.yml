@@ -1,12 +1,12 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "Asapanna Rakesh"
+description:        "Personal web protfolio"
+author_name:        "ARakesh" # change this to your name
+logo_url:           https://pbs.twimg.com/profile_images/1305676725968187393/eFgFxnHw_400x400.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
+url:                https://rakesh4real.github.io/ # main url
+baseurl:            /whoami
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable

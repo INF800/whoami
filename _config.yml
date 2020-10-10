@@ -1,11 +1,11 @@
 # Site Info
 title:              "Asapanna Rakesh"
 description:        "Personal web protfolio"
-author_name:        "ARakesh" # change this to your name
+author_name:        "Asapanna Rakesh" # change this to your name
 logo_url:           https://pbs.twimg.com/profile_images/1305676725968187393/eFgFxnHw_400x400.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://rakesh4real.github.io/ # main url
+url:                https://rakesh4real.github.io # main url
 baseurl:            /whoami
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

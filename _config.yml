@@ -26,7 +26,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 
-remote_theme: heiswayi/the-plain
+remote_theme: rakesh4real/whoami
 
 defaults:
   -

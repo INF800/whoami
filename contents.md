@@ -3,7 +3,14 @@ layout: page
 title: Contents
 ---
 
-Hello.
+<section>
+	<div style="text-align: center;">
+		<span class="hlink" onclick="window.location='/whoami/about'">Whois</span> • 
+		<span class="hlink" onclick="window.location='/whoami/contents'">Blog</span> • 
+		<span class="hlink" onclick="window.location='/whoami/about'">Projects</span>
+	</div>
+	<div></div>
+</section>
 
 <section>
 	{% for post in site.posts %}

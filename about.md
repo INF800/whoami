@@ -25,7 +25,7 @@ I’m a self-taught programmer and ML practitioner currently living in India. In
 
 Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in open-source / democratizing machine learning and love finding meaning to equations (check my blog). 
 
-I am humble and sincere and understanding. I prefer to not to talk much but when it comes to tech, I am the most friendliest person on the internet! 
+I am humble and sincere and understanding. When it comes to tech, I am the most friendliest person on the internet! 
 
 To know the tools, technologies and programming languages I use, check out my sourcerer stats. If you intend to hire me, you can find my resume here.
 

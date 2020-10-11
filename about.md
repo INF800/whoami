@@ -23,7 +23,7 @@ I’m a self-taught programmer and ML practitioner currently living in India. In
 - Product engineer intern at Logitech 
 - Freelancer and much more ...
 
-Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in democratizing machine learning / open-source and love finding meaning to equations (check my blog). 
+Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in open-source / democratizing machine learning and love finding meaning to equations (check my blog). 
 
 I am humble and sincere and understanding. I prefer to not to talk much but when it comes to tech, I am the most friendliest person on the internet! 
 

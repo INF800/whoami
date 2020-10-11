@@ -2,7 +2,7 @@
 title:              "Asapanna Rakesh"
 description:        "Personal web protfolio"
 author_name:        "Asapanna Rakesh" # change this to your name
-logo_url:           # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://i.ibb.co/DYgzHwg/dp.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://rakesh4real.github.io # main url

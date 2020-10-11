@@ -18,7 +18,7 @@ I’m a self-taught programmer and ML practitioner currently living in India. In
 - Google AI machine learning facilitator
 - 2019 Code-In Mentor for Tensorflow
 - Invited to Google office to present my startup for funding
-- Failed Incuabatee start-up
+- Incuabatee for a failed start-up
 - Speaker and product-contributor for communities and startups
 - Product engineer intern at Logitech 
 - Freelancer and much more ...

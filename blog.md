@@ -7,7 +7,7 @@ title: Blog
 	<div style="text-align: center;">
 		<span class="hlink" onclick="window.location='/whoami/about'">About</span> • 
 		<span class="hlink" onclick="window.location='/whoami/blog'">Blog</span> • 
-		<span class="hlink" onclick="window.location='/whoami/about'">Projects</span>
+		<span class="hlink" onclick="window.location='/whoami/projects'">Projects</span>
 	</div>
 	<div></div>
 </section>

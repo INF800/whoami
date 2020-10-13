@@ -42,6 +42,9 @@ Filter for communities is an open-source application/API that let's you connect 
 Play Tic-Tac-Toe powered by minimax algorithm. Optimized with memoisation and alpha-beta pruning
 
 ### Live Forex
+
+![tm](/assets/projs/fx.gif)
+
 Get real-time live forex market details for popular 26 currency pairs like high value, change in price, percent change and much more
 
 ### Clien Side Web Diary

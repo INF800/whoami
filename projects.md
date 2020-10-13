@@ -30,6 +30,9 @@ Autocomplete input field using custom version of Trie tree grown with 10k most p
 A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection
 
 ### Filter for communities
+
+![tm](/assets/projs/filter.png)
+
 Filter for communities is an open-source application/API that let's you connect with people whom you are looking for
 
 ### Tic Tac Toe

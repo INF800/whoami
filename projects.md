@@ -24,16 +24,16 @@ Face detection and recognition using client-side Tensorflow.js with simple trans
 
 ![tm](/assets/projs/autocomplete.gif)
 
-Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English. [[Live]](https://incomplete-me.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/next-word-sentence-pred-api)
+Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English. [[Live]](https://incomplete-me.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/next-word-sentence-pred-api) 
 
 ### Choice Driven Chatbot
 
 ![tm](/assets/projs/cbot.gif)
 
-Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP]
+Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP] [[Live]](https://rakesh4real.github.io/chatbot-api-demo/) [[GitHub]](https://github.com/rakesh4real/chatbot-api-demo/)
 
 ### Ghost Nation
-A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection [[Live]](https://rakesh4real.github.io/chatbot-api-demo/) [[GitHub]](https://github.com/rakesh4real/chatbot-api-demo/)
+A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection [[Live]](https://rakesh4real.github.io/P2P-V2/) [[GitHub]](https://github.com/rakesh4real/P2P-V2)
 
 ### Filter for communities
 
@@ -48,13 +48,13 @@ Filter for communities is an open-source application/API that let's you connect 
 Play Tic-Tac-Toe powered by minimax algorithm. Optimized with memoisation and alpha-beta pruning [[Live]](https://rakesh4real.github.io/tictactoe/) [[GitHub]](https://github.com/rakesh4real/tictactoe)
 
 ### When were you Productive ?
-Find at which interval of time you were most productive/profited using Kadane's algorithm. Cython Backend for faster processing. [[Live]]() [[GitHub]]()
+Find at which interval of time you were most productive/profited using Kadane's algorithm. Cython Backend for faster processing. [[Live]](https://max-ss.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/Kladane-MSS)
 
 ### Live Forex
 
 ![tm](/assets/projs/fx.gif)
 
-Get real-time live forex market details for popular 26 currency pairs like high value, change in price, percent change and much more [[Live]](https://max-ss.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/Kladane-MSS)
+Get real-time live forex market details for popular 26 currency pairs like high value, change in price, percent change and much more [[Live]](https://realtime-forex.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/realtime-forex-api)
 
 ### Clien Side Web Diary
 Built on top of IndexedDB you can write diary that you can truly own. Encryption using AES symetric key [[Live]](http://rakesh4real.github.io/logs) [[GitHub]](https://github.com/rakesh4real/logs)

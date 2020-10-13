@@ -17,7 +17,7 @@ title: Projects
 ### Teachable Machine
 
 ![tm](/assets/teachablemachine.gif)
-
+<br/>
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
 
 ### Choice Driven Chatbot

@@ -21,6 +21,9 @@ title: Projects
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
 
 ### Choice Driven Chatbot
+
+![tm](/assets/projs/cbot.gif)
+
 Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP]
 
 ### Autocomplete

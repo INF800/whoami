@@ -71,5 +71,5 @@ Get real-time live forex market details for popular 26 currency pairs like high 
 
 <div class="divider"></div>
 
-### Clien Side Web Diary
+### Client Side Web Diary
 Built on top of IndexedDB you can write diary that you can truly own. Encryption using AES symetric key. [[Live]](http://rakesh4real.github.io/logs) [[GitHub]](https://github.com/rakesh4real/logs)

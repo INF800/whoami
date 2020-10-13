@@ -16,7 +16,7 @@ title: Projects
 
 ### Teachable Machine
 
-![tm](/assets/projs/teachablemachine.gif)
+![tm](/assets/projsteachablemachine.gif)
 
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
 

@@ -15,7 +15,9 @@ title: Projects
 ## Open Souce
 
 ### Teachable Machine
+
 ![tm](/assets/teachablemachine.gif)
+
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
 
 ### Choice Driven Chatbot

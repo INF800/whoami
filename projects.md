@@ -12,9 +12,6 @@ title: Projects
 	<div></div>
 </section>
 
-## Open Souce
-
-<div class="divider"></div>
 
 ### Teachable Machine
 

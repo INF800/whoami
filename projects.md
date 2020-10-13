@@ -18,7 +18,7 @@ title: Projects
 
 ![tm](/assets/projs/teachablemachine.gif)
 
-Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
+Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier [[Live]]() [[GitHub]]()
 
 ### Autocomplete
 

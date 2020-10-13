@@ -20,14 +20,17 @@ title: Projects
 
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
 
+### Autocomplete
+
+![tm](/assets/projs/autocomplete.gif)
+
+Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English.
+
 ### Choice Driven Chatbot
 
 ![tm](/assets/projs/cbot.gif)
 
 Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP]
-
-### Autocomplete
-Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English.
 
 ### Ghost Nation
 A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection

@@ -33,6 +33,9 @@ A.I powered peer-to-peer client side video stream/chat with - video/audio chat, 
 Filter for communities is an open-source application/API that let's you connect with people whom you are looking for
 
 ### Tic Tac Toe
+
+![tm](/assets/projs/ttt.gif)
+
 Play Tic-Tac-Toe powered by minimax algorithm. Optimized with memoisation and alpha-beta pruning
 
 ### Live Forex

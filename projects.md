@@ -15,7 +15,7 @@ title: Projects
 ## Open Souce
 
 ### Teachable Machine
-![tm](https://github.com/rakesh4real/face-recognition/blob/master/docs/teachable-machine.full.gif)
+![tm](/whoami/static/projs/teachable-machine.gif)
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier
 
 ### Choice Driven Chatbot

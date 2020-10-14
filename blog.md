@@ -13,6 +13,13 @@ title: Blog
 </section>
 
 <section>
+	<div class="title">
+		Sorry for inconvinienece. Site is under reconstruction. To see some of old blogs <a href="https://www.kaggle.com/l0new0lf/machine-learning-data-science-bookmarks">check this link</a>
+	</div>
+</section>
+
+<!--
+<section>
 
 	<h3 class="code">Category m</h3>
 	{% for post in site.posts %}

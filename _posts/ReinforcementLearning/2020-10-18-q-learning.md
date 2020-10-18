@@ -165,7 +165,7 @@ This not in-depth explanation of Q-Learning algorithm but give fair understandin
 [twitter](https://twitter.com/inf800)
 
 
-<iframe width="560" height="315" src="https://twitter.com/inf800/status/1308520363622461440" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://twitter.com/inf800/status/1308520363622461440/" frameborder="0" allowfullscreen></iframe>
 
 
 Thank you for reading this blog :)

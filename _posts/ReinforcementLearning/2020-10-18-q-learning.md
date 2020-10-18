@@ -1,6 +1,6 @@
 ---
 title: Understanding Q Learning - No Neural Nets Here!
-updated: 2020-10-18 23:37
+updated: 2020-10-19 04:37
 tags: 100DaysOfMLCode
 category: 
 - Reinforcement Learning
@@ -17,7 +17,7 @@ Q-Learning does not use any black-box neural networks aka *Deep Q-Networks*. Ins
 
 ## Basics First 
 
-Q-Learning or reinforcement learning in general requires two basic compnents to start with - one, an **Environment** and two, an **Agent**. You can implement them however you like - using OOPs was more intuitive for me.
+Q-Learning or reinforcement learning in general requires two basic components to start with - one, an **Environment** and two, an **Agent**.
 
 ### 1. Environment
 
@@ -71,7 +71,7 @@ So, the full framework with both Environment and Agent looks as follows
 ![](assets/blogs/rf/qlearn.png)
 
 
-On a high level, this is how Q-Learning works. But magic happens inside agent's `Learn` method dicussed below.
+On a high level, this is how Q-Learning works. But magic happens inside agent's `Learn` method discussed below.
 
 
 <div class="divider"></div>

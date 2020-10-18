@@ -6,17 +6,18 @@ category:
 - Reinforcement Learning
 ---
 
-The algorithm we are going to discuss does not use any black-box *Deep-Q-Networks*. Instead, we use Q-Table which more interpretable and elegant in it's own way. I tried to make this blog as short as possible with simple terminology to make sure it is reader-friendly and cover important concepts only. Nothing more. Nothing less. Happy Reading!
+Q-Learning does not use any black-box neural networks aka *Deep Q-Networks*. Instead, it uses Q-Table which makes it more interpretable and elegant in it's own way. This blog discusses only the important concepts of Q-Learning. Nothing more; Nothing Less. Happy Reading!
 
 <div class="divider"></div>
 
 <p style="text-align: center">
-    <img src="assets/blogs/rf/after.gif">
+    <img src="assets/blogs/rf/after.gif"> <br/>
+    Implementation of Q-Learning <a href="https://github.com/rakesh4real/game-one">with code</a>
 </p>
 
 ## Basics First 
 
-We need two main things for our algorithm - one, an Environment and two, an Agent
+Q-Learning or reinforcement learning in general requires two basic compnents to start with - one, an **Environment** and two, an **Agent**. You can implement them however you like - using OOPs was more intuitive for me.
 
 ### 1. Environment
 
@@ -62,7 +63,7 @@ This is the most important function of an agent. An agent in Q-Learning algorith
 
 ![](assets/blogs/rf/agentlearn.png)
 
-> **Note:** we will discuss more about `Learn` in later sections
+> **Note:** We will discuss more about `Learn` in later sections. Remember what `S`, `A`, `R` and `S_new` stand for as they will be used extensively later.
 
 
 So, the full framework with both Environment and Agent looks as follows
@@ -91,7 +92,7 @@ Q-Table in simple terms tell agent **what action to perform while at any given s
 > ![A](assets/blogs/rf/qtable.png)
 > 
 
-After training (50 games in our case), exploiting the Q-Table will give the following actions wrt their states for a 5x5 maze.
+After training (50 games in our case), exploiting the Q-Table will give the following *"best-actions"* wrt their states for a 5x5 maze.
 
 ![](assets/blogs/rf/bestmoves.png)
 
@@ -99,12 +100,9 @@ After training (50 games in our case), exploiting the Q-Table will give the foll
 ## Driving Mathematics Under The Hood 
 
 
-The agent's `Learn` method creates / populates the Q-Table discussed above. It takes the following as inputs
+The agent's `Learn` method creates / populates the Q-Table discussed above. It takes inputs mentioned in **2-B**.
 
-- Output of environment for any iteration `R` and `S_new`
-- The previous state `S` of Agent `A` and and the action it performed while at that state
-
-Initially, before the training starts, Q-Table is initialized with all zeros. Then, using the following equation, the values are altered for every move the agent makes.
+Initially, before the training starts, Q-Table is initialized with all zeros. While training, we must make sure that a all state-action pairs' Q-Values in Q-Table is increased from zero / decreased from zero. Which is taken care by update rule below. Using following equation, the Q-Values are altered for every move the agent makes.
 
 When agent makes action `A` while at state `S`, `A`th column in `S`th row in Q-Table is updated using:
 
@@ -112,24 +110,41 @@ $$
 \text{Q}_{new} \,\, = \,\, \text{Q}_{old} \,\, + \,\, \alpha \,\, (\text{update-term})
 $$
 
-where $$\alpha$$ is learning rate. The update-term when `S_new` is not a terminal state is -
+
+### Designing the update-term
+
+We know that reward is positive `+1` for best moves and `-1` for worst moves. So, if we set immediate reward `R` we get from environment as update-term, 
 
 $$
-\text{update-term} \,\, = \,\, \text{reward-term} \,\, - \,\, \text{Q}_{old}
+\text{update-term} \,\, = \,\, \text{R}
 $$
+
+Wait, there is a catch here! We are only considering immediate rewards. How can we incorporate future rewards? As we have `S_new` with us (and can lookup latest Q-Table at any point of time), we can add the best i.e maximum possible Q-Value associated with `S_new` to reward term assuming Q-Values behave just as rewards. So, the new reward term looks like - 
+
+$$
+\text{update-term} \,\, = \,\, \text{R} \,\, + \,\, \text{MaxQ}_{S_{new}}
+$$
+
+Wait, there is a another catch here! Are the immediate and future rewards equally important? No!! Immediate reward is more important. So decrease the future reward by a factor $$\gamma \in [0, 1]$$. 
+
+$$
+\text{update-term} \,\, = \,\, \text{R} \,\, + \,\, \gamma * \text{MaxQ}_{S_{new}}
+$$
+
+One final modification. We assumed that Q-Value acts just like rewards. But if we use above update-term, the range of $$\text{Q}_{new}$$ will be greater/lesser than the range of rewards [-1, +1]. To make sure ranges are consistent, we subtract old Q-Value from reward term.
+
+$$
+\text{update-term} \,\, = \,\, \text{R} \,\, + \,\, \gamma * \text{MaxQ}_{S_{new}} \,-\, \text{Q}_{old}
+$$
+
+
 
 - In short, $$- \,\, \text{Q}_{old}$$ makes sure that $$\text{Q}_{new}$$ never gets greater than or lesser than the reward agent gets for it's actions.
 
 - The reward-term is quite simple. It is the sum of immediate reward `R` and best Q-value for next state `S_new` reduced by a factor $$\gamma$$. The reduction factor makes sure that immediate reward is more important than the future reward.
 
-So, the complete update-term when `S_new` is not a terminal state is
 
-
-$$
-R + \bigg( \gamma * \text{Max}(\text{Q}_{S_{new}}) \bigg) - \text{Q}_{old}
-$$
-
-And when `S_new` is a terminal state, there is no next move. Consequently, the reward-term does not need to care about best Q-value for next state `S_new`. As a result, the complete update equation when `S_new` is a terminal state is
+And finally, *if and only if* `S_new` is a **terminal state**, there is no next move. Consequently, the reward-term does not need to care about best Q-value for next state `S_new` i.e we can neglect $$(\gamma * \text{MaxQ}_{S_{new}})$$. As a result, the complete update equation when `S_new` is a terminal state is
 
 $$
 \text{Q}_{new} \,\, = \,\, \text{Q}_{old} \,\, + \,\, \alpha \,\, \bigg[ R \,\,-\,\, \text{Q}_{old} \bigg]
@@ -146,6 +161,11 @@ Generally, `0.9` is a good choice for $$\alpha$$ and $$\gamma$$
 
 ## Conclusion
 
-This not in-depth explanation of Q-Learning algorithm but give fair understanding of how Q-Learning and reinforcement learning in general work. If you are planning to get your hands dirty, check out my implementation [here](https://github.com/rakesh4real/game-one) try to tweak the code and play with it. Feel free to reach out to me if you have any comments, doubts, question or suggestions via [twitter](https://twitter.com/inf800)
+This not in-depth explanation of Q-Learning algorithm but give fair understanding of how Q-Learning and reinforcement learning in general work. If you are planning to get your hands dirty, check out my implementation [here](https://github.com/rakesh4real/game-one) try to tweak the code and play with it. Feel free to reach out to me if you have any comments, doubts, question or suggestions via <span onclick="window.location='https://twitter.com/inf800'" class="iconify" data-icon="fa-brands:twitter" data-inline="false"></span>
+[twitter](https://twitter.com/inf800)
+
+
+<iframe width="560" height="315" src="https://twitter.com/inf800/status/1308520363622461440" frameborder="0" allowfullscreen></iframe>
+
 
 Thank you for reading this blog :)

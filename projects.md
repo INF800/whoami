@@ -13,6 +13,12 @@ title: Projects
 </section>
 
 
+### Q-Learning
+
+![](assets/blogs/rf/after.gif)
+
+Q-Learning implementation from scratch using Numpy, FastAPI and ReactJS. [[Blog]](https://rakesh4real.github.io/whoami/q-learning) [[GitHub]](https://github.com/rakesh4real/game-one)
+
 ### Teachable Machine
 
 ![tm](/assets/projs/teachablemachine.gif)

@@ -1,5 +1,5 @@
 ---
-title: Understanding Q-Learning - No Neural Nets Here!
+title: Understanding Q Learning - No Neural Nets Here!
 updated: 2020-10-18 23:37
 tags: 100DaysOfMLCode
 category: 

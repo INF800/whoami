@@ -10,7 +10,7 @@ The algorithm we are going to discuss does not use any black-box *Deep-Q-Network
 
 <div class="divider"></div>
 
-<p align="center">
+<p style="text-align: center">
     <img src="assets/blogs/rf/after.gif">
 </p>
 
@@ -122,10 +122,11 @@ $$
 
 - The reward-term is quite simple. It is the sum of immediate reward `R` and best Q-value for next state `S_new` reduced by a factor $$\gamma$$. The reduction factor makes sure that immediate reward is more important than the future reward.
 
-So, the complete update equation when `S_new` is not a terminal state is
+So, the complete update-term when `S_new` is not a terminal state is
+
 
 $$
-\text{Q}_{new} \,\, = \,\, \text{Q}_{old} \,\, + \,\, \alpha \,\, \bigg[ R \,\,+\,\, \bigg( \gamma * \text{Max}(\text{Q}_{S_{new}}) \bigg) \,\,-\,\, \text{Q}_{old} \bigg]
+R + \bigg( \gamma * \text{Max}(\text{Q}_{S_{new}}) \bigg) - \text{Q}_{old}
 $$
 
 And when `S_new` is a terminal state, there is no next move. Consequently, the reward-term does not need to care about best Q-value for next state `S_new`. As a result, the complete update equation when `S_new` is a terminal state is
@@ -143,7 +144,7 @@ Generally, `0.9` is a good choice for $$\alpha$$ and $$\gamma$$
 
 <div class="divider"></div>
 
-## Finally
+## Conclusion
 
 This not in-depth explanation of Q-Learning algorithm but give fair understanding of how Q-Learning and reinforcement learning in general work. If you are planning to get your hands dirty, check out my implementation [here](https://github.com/rakesh4real/game-one) try to tweak the code and play with it. Feel free to reach out to me if you have any comments, doubts, question or suggestions via [twitter](https://twitter.com/inf800)
 

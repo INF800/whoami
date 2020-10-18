@@ -161,7 +161,7 @@ Generally, `0.9` is a good choice for $$\alpha$$ and $$\gamma$$
 
 ## Conclusion
 
-This not in-depth explanation of Q-Learning algorithm but give fair understanding of how Q-Learning and reinforcement learning in general work. If you are planning to get your hands dirty, check out my implementation [here](https://github.com/rakesh4real/game-one) try to tweak the code and play with it. Feel free to reach out to me if you have any comments, doubts, question or suggestions via <span onclick="window.location='https://twitter.com/inf800'" class="iconify" data-icon="fa-brands:twitter" data-inline="false"></span>
+This not in-depth explanation of Q-Learning algorithm but give fair understanding of how Q-Learning and reinforcement learning in general work. If you are planning to get your hands dirty, check out my implementation [here](https://github.com/rakesh4real/game-one) try to tweak the code and play with it. Feel free to reach out to me if you have any comments, doubts, questions or suggestions via <span onclick="window.location='https://twitter.com/inf800'" class="iconify" data-icon="fa-brands:twitter" data-inline="false"></span>
 [twitter](https://twitter.com/inf800)
 
 

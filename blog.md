@@ -12,19 +12,18 @@ title: Blog
 	<div></div>
 </section>
 
-<section>
+<!--section>
 	<div class="title">
 		Sorry for inconvinienece. Site is under reconstruction. To see some of old blogs <a href="https://www.kaggle.com/l0new0lf/machine-learning-data-science-bookmarks">check this link</a>
 	</div>
-</section>
+</section -->
 
-<!--
 <section>
 
-	<h3 class="code">Category m</h3>
+	<h3 class="code">Reinforcement Learning</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
-			{% if c == 'm' %}
+			{% if c == 'Reinforcement Learning' %}
 
 			<ul>
 				<li>
@@ -42,46 +41,6 @@ title: Blog
 	{% endfor %}
 
 
-	<h3 class="code">Category n</h3>
-	{% for post in site.posts %}
-		{% for c in post.categories %}
-			{% if c == 'n' %}
-
-			<ul>
-				<li>
-					<div class="post-date code">
-						<span>{{ post.date | date: "%b %d" }}</span>
-					</div>
-					<div class="title">
-						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-					</div>
-				</li>
-			</ul>
-			
-			{% endif %}
-		{% endfor %}
-	{% endfor %}
-
-
-	<h3 class="code">Category p</h3>
-	{% for post in site.posts %}
-		{% for c in post.categories %}
-			{% if c == 'p' %}
-
-			<ul>
-				<li>
-					<div class="post-date code">
-						<span>{{ post.date | date: "%b %d" }}</span>
-					</div>
-					<div class="title">
-						<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-					</div>
-				</li>
-			</ul>
-			
-			{% endif %}
-		{% endfor %}
-	{% endfor %}
 
 </section>
 

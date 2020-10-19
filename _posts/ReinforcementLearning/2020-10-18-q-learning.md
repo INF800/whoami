@@ -6,7 +6,7 @@ category:
 - Reinforcement Learning
 ---
 
-Q-Learning does not use any black-box neural networks aka *Deep Q-Networks*. Instead, it uses Q-Table which makes Q-Learning more interpretable and elegant in it's own way. This blog is a brief introduction to Q-Learning. Happy Reading!
+Q-Learning does not use any black-box neural networks aka *Deep Q-Networks*. Instead, it uses Q-Table which makes Q-Learning more interpretable and elegant in it's own way. This blog is a brief introduction to Q-Learning.
 
 <div class="divider"></div>
 

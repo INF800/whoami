@@ -17,19 +17,19 @@ Q-Learning does not use any black-box neural networks aka *Deep Q-Networks*. Ins
 
 ## Basics First 
 
-Q-Learning or reinforcement learning in general requires two basic components to start with - one, an **Environment** and two, an **Agent**.
+Q-Learning or reinforcement learning in general need two basic components to start with - one, an **Environment** and two, an **Agent**.
 
 ### 1. Environment
 
 *For brevity, let us consider a maze as our environment and a payer-bot as an agent which can make some moves.*
 
-States in an environment are the places where a player-bot can be. For example, in a 5x5 maze environment, there are 25 states where an agent can be at any point of time and can perform any action - `ArrowUp`, `ArrowDown`, `ArrowLeft` and `ArrowRight`. 
+States in an environment are the places where a player-bot can be. For example, in a 5x5 maze environment, there are 25 states where an agent can be at any point of time and can perform any action - `ArrowUp`, `ArrowDown`, `ArrowLeft` and `ArrowRight` being at that state. 
 
 For any given **action as input** to an environment, we get set of **{observations, reward} as output** 
 
 ![](assets/blogs/rf/env.png)
 
-Make sure to remember that in our maze environment, observation is the next-state agent goes to because performing input action in the environment. 
+Make sure to remember that in our maze environment, observation is the next-state the agent goes to because of performing input action in the environment. 
 
 Reward of input action can be positive or negative or zero. In our case, 
 
@@ -39,15 +39,15 @@ Reward of input action can be positive or negative or zero. In our case,
 
 ![](assets/blogs/rf/enveg.png)
 
-> There will be some states in environment leading to the end of the game - either by winning or by losing. When reaching that state, environment must reset. Let us call these states **Terminal States**
+> There will be some states in the environment leading to the end of the game - either by winning or by losing. When reaching that state, environment must reset. Let us call these states **Terminal States**
 
 ### 2. Agent
 
-Agent has two main funtions - making actions and learning.
+Agents have two main functions - making actions and learning.
 
 #### A. Making Actions (Output of Agent)
 
-Agent can make any of the actions mentioned above. It can either explore (make moves randomly) or exploit (make best moves). While training, moves are more random which generate optimal Q-Table (we will talk about in next section). For making best moves, Q-Table is used.
+An agent can make any of the actions mentioned above. It can either explore (make moves randomly) or exploit (make best moves). While training, moves are more random which generate optimal Q-Table (we will talk about in next section). For making best moves, Q-Table is used.
 
 ![](assets/blogs/rf/agent_action.png)
 
@@ -71,7 +71,7 @@ So, the full framework with both Environment and Agent looks as follows
 ![](assets/blogs/rf/qlearn.png)
 
 
-On a high level, this is how Q-Learning works. But magic happens inside agent's `Learn` method discussed below.
+On a high level, this is how Q-Learning works. But magic happens inside the agent's `Learn` method explianed below.
 
 
 <div class="divider"></div>
@@ -81,12 +81,12 @@ On a high level, this is how Q-Learning works. But magic happens inside agent's 
 
 Before answering that question, we must answer <i>"**What** does an agent learn?</i> Answer is Q-Table.
 
-Q-Table in simple terms tell agent **what action to perform while at any given state.**
+Q-Table in simple terms tells the agent **what action to perform while at any given state.**
 
 > In a Q-Table, rows represent all possible states and columns represent the possible actions. Best action for
 > any state is the action with highest Q-Value. 
 >
-> For example, when agent is at position / state `(0,0)` the best possible action it can perform is `ArrowRight` because it has
+> For example, when an agent is at position / state `(0,0)` the best possible action it can perform is `ArrowRight` because it has the
 > highest value of `0.53`. Note that `ArrowDown` with `0.51` is not a bad choice; It is just not better. 
 >
 > ![A](assets/blogs/rf/qtable.png)
@@ -102,7 +102,7 @@ After training (50 games in our case), exploiting the Q-Table will give the foll
 
 The agent's `Learn` method creates / populates the Q-Table discussed above. It takes inputs mentioned in **2-B**.
 
-Initially, before the training starts, Q-Table is initialized with all zeros. While training, we must make sure that a all state-action pairs' Q-Values in Q-Table is increased from zero / decreased from zero. Which is taken care by update rule below. Using following equation, the Q-Values are altered for every move the agent makes.
+Initially, before the training starts, Q-Table is initialized with all zeros. While training, we must make sure that all state-action pairs' Q-Values in Q-Table are increased from zero / decreased from zero suitably. Which is taken care of by the update rule below. Using the following equation, the Q-Values are altered for every move the agent makes.
 
 When agent makes action `A` while at state `S`, `A`th column in `S`th row in Q-Table is updated using:
 
@@ -113,25 +113,25 @@ $$
 
 ### Designing the update-term
 
-We know that reward is positive `+1` for best moves and `-1` for worst moves. So, if we set immediate reward `R` we get from environment as update-term, 
+We know that reward is positive `+1` for best moves and `-1` for worst moves. And it is zero otherwise. So, if we set update-term as the immediate reward `R` we get from environment, 
 
 $$
 \text{update-term} \,\, = \,\, \text{R}
 $$
 
-Wait, there is a catch here! We are only considering immediate rewards. How can we incorporate future rewards? As we have `S_new` with us (and can lookup latest Q-Table at any point of time), we can add the best i.e maximum possible Q-Value associated with `S_new` to reward term assuming Q-Values behave just as rewards. So, the new reward term looks like - 
+There is a catch here. We are only considering immediate rewards. How can we incorporate future rewards as well? As we have `S_new` with us (and can lookup the latest Q-Table at any point of time), we can add the best i.e maximum possible Q-Value associated with `S_new` to immediate reward assuming that Q-Values behave just as rewards. So, the new reward term looks like - 
 
 $$
 \text{update-term} \,\, = \,\, \text{R} \,\, + \,\, \text{MaxQ}_{S_{new}}
 $$
 
-Wait, there is a another catch here! Are the immediate and future rewards equally important? No!! Immediate reward is more important. So decrease the future reward by a factor $$\gamma \in [0, 1]$$. 
+Wait, there is another catch here! Are the immediate and future rewards equally important? No. Immediate reward is more important. So decrease the future reward by a factor $$\gamma \in [0, 1]$$. 
 
 $$
 \text{update-term} \,\, = \,\, \text{R} \,\, + \,\, \gamma * \text{MaxQ}_{S_{new}}
 $$
 
-One final modification. We assumed that Q-Value acts just like rewards. But if we use above update-term, the range of $$\text{Q}_{new}$$ will be greater/lesser than the range of rewards [-1, +1]. To make sure ranges are consistent, we subtract old Q-Value from reward term.
+One final modification. We assumed that Q-Values act just like rewards. But if we use above update-term, the range of $$\text{Q}_{new}$$ will be greater/lesser than the range of rewards [-1, +1]. To make sure ranges are consistent, we subtract old Q-Value from reward term.
 
 $$
 \text{update-term} \,\, = \,\, \text{R} \,\, + \,\, \gamma * \text{MaxQ}_{S_{new}} \,-\, \text{Q}_{old}
@@ -154,7 +154,7 @@ Generally, `0.9` is a good choice for $$\alpha$$ and $$\gamma$$
 
 > Q-Values are exactly like rewards but created artificially by the update equations even if the reward for that state is zero.
 >
-> The more agent explores (random moves) the better will be Q-Table as it is generated **bottom-to-top** i.e updates in Q-Table is made first for the regions (terminal states) where reward is maximum / minimum and then slowly covers all states based on exploration and closeness to those terminal states.
+> The more agent explores (makes random moves) the better will be Q-Table as it is generated **bottom-to-top** i.e updates in Q-Table is made first for the regions (terminal states) where reward is maximum / minimum and then slowly, all states are covered based on exploration and proximity to those terminal states.
 
 
 <div class="divider"></div>

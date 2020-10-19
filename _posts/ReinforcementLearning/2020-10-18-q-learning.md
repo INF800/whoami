@@ -144,7 +144,7 @@ $$
 - The reward-term is quite simple. It is the sum of immediate reward `R` and best Q-value for next state `S_new` reduced by a factor $$\gamma$$. The reduction factor makes sure that immediate reward is more important than the future reward.
 
 
-And finally, *if and only if* `S_new` is a **terminal state**, there is no next move. Consequently, the reward-term does not need to care about best Q-value for next state `S_new` i.e we can neglect $$(\gamma * \text{MaxQ}_{S_{new}})$$. As a result, the complete update equation when `S_new` is a terminal state is
+And finally, *if and only if* `S_new` is a **terminal state**, there is no next move. Consequently, the reward-term does not need to care about best Q-value for next state `S_new` i.e we can ignore $$(\gamma * \text{MaxQ}_{S_{new}})$$. As a result, the complete update equation when `S_new` is a terminal state is
 
 $$
 \text{Q}_{new} \,\, = \,\, \text{Q}_{old} \,\, + \,\, \alpha \,\, \bigg[ R \,\,-\,\, \text{Q}_{old} \bigg]

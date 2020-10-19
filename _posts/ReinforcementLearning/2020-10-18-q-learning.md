@@ -165,7 +165,7 @@ This not in-depth explanation of Q-Learning algorithm but give fair understandin
 [twitter](https://twitter.com/inf800)
 
 
-<iframe width="560" height="315" src="https://twitter.com/inf800/status/1308520363622461440/" frameborder="0" allowfullscreen></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Day2?src=hash&amp;ref_src=twsrc%5Etfw">#Day2</a> of <a href="https://twitter.com/hashtag/100DaysOfMLCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfMLCode</a> 🤗<br>Topic: Implementation of Q-Learning from scratch using <a href="https://twitter.com/hashtag/numpy?src=hash&amp;ref_src=twsrc%5Etfw">#numpy</a>, <a href="https://twitter.com/hashtag/reactjs?src=hash&amp;ref_src=twsrc%5Etfw">#reactjs</a> and <a href="https://twitter.com/hashtag/fastapi?src=hash&amp;ref_src=twsrc%5Etfw">#fastapi</a> 🐍<br><br>Blog: <a href="https://t.co/QrWgA6m7wx">https://t.co/QrWgA6m7wx</a><br>Code: <a href="https://t.co/DaciGR8TVN">https://t.co/DaciGR8TVN</a> <a href="https://t.co/zPiOHT0Uyv">pic.twitter.com/zPiOHT0Uyv</a></p>&mdash; Asapanna Rakesh (@inf800) <a href="https://twitter.com/inf800/status/1318051084993060865?ref_src=twsrc%5Etfw">October 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Thank you for reading this blog :)

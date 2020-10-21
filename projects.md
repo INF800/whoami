@@ -21,7 +21,7 @@ Q-Learning implementation from scratch using Numpy, FastAPI and ReactJS. [[Blog]
 
 ### Teachable Machine
 
-![tm](/assets/projs/teachablemachine.gif)
+![tm](assets/projs/teachablemachine.gif)
 
 Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier. [[Live]](https://rakesh4real.github.io/face-recognition/) [[GitHub]](https://github.com/rakesh4real/face-recognition)
 
@@ -29,7 +29,7 @@ Face detection and recognition using client-side Tensorflow.js with simple trans
 
 ### Autocomplete
 
-![tm](/assets/projs/autocomplete.gif)
+![tm](assets/projs/autocomplete.gif)
 
 Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English. [[Live]](https://incomplete-me.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/next-word-sentence-pred-api) 
 
@@ -37,7 +37,7 @@ Autocomplete input field using custom version of Trie tree grown with 10k most p
 
 ### Choice Driven Chatbot
 
-![tm](/assets/projs/cbot.gif)
+![tm](assets/projs/cbot.gif)
 
 Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP]. [[Live]](https://rakesh4real.github.io/chatbot-api-demo/) [[GitHub]](https://github.com/rakesh4real/chatbot-api-demo/)
 
@@ -50,7 +50,7 @@ A.I powered peer-to-peer client side video stream/chat with - video/audio chat, 
 
 ### Filter for communities
 
-![tm](/assets/projs/filter.png)
+![tm](assets/projs/filter.png)
 
 Filter for communities is an open-source application/API that let's you connect with people whom you are looking for. [[Live]](https://vis-filter.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/FILTER)
 
@@ -58,7 +58,7 @@ Filter for communities is an open-source application/API that let's you connect 
 
 ### Tic Tac Toe
 
-![tm](/assets/projs/ttt.gif)
+![tm](assets/projs/ttt.gif)
 
 Play Tic-Tac-Toe powered by minimax algorithm. Optimized with memoisation and alpha-beta pruning. [[Live]](https://rakesh4real.github.io/tictactoe/) [[GitHub]](https://github.com/rakesh4real/tictactoe)
 
@@ -71,7 +71,7 @@ Find at which interval of time you were most productive/profited using Kadane's 
 
 ### Live Forex
 
-![tm](/assets/projs/fx.gif)
+![tm](assets/projs/fx.gif)
 
 Get real-time live forex market details for popular 26 currency pairs like high value, change in price, percent change and much more. [[Live]](https://realtime-forex.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/realtime-forex-api)
 

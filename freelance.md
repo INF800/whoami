@@ -14,6 +14,6 @@ title: Projects
 </section>
 
 
-### Hire me as a freelancer
+### Hire Me As a Freelancer
 
 I mostly work with start-ups. Every now and then some independant projects when I am free or interested or broke.

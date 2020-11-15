@@ -8,7 +8,7 @@ title: Freelance
 		<span class="hlink " onclick="window.location='/whoami/'">About</span> • 
 		<span class="hlink " onclick="window.location='/whoami/blog'">Blog</span> • 
 		<span class="hlink " onclick="window.location='/whoami/projects'">Projects</span> • 
-		<span class="hlink " onclick="window.location='/whoami/freelance'">Freelance</span>
+		<span class="hlink " onclick="window.location='/whoami/freelance'" style="color: rgba(0, 0, 0, 0.4)">Freelance</span>
 	</div>
 	<div></div>
 </section>

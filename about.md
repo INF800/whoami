@@ -5,7 +5,7 @@ title: About
 
 <section>
 	<div style="text-align: center;">
-		<span class="hlink " onclick="window.location='/whoami/'">About</span> • 
+		<span class="hlink " onclick="window.location='/whoami/'" style="color: rgba(0, 0, 0, 0.4)">About</span> • 
 		<span class="hlink " onclick="window.location='/whoami/blog'">Blog</span> • 
 		<span class="hlink " onclick="window.location='/whoami/projects'">Projects</span> • 
 		<span class="hlink " onclick="window.location='/whoami/freelance'">Freelance</span>

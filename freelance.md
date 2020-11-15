@@ -16,4 +16,4 @@ title: Freelance
 
 ### Hire Me As a Freelancer
 
-I mostly work with start-ups. Every now and then some independant projects when I am free or interested or broke.
+I mostly work with start-ups. Every now and then some independant projects if they catch my attention or if I am free or broke <span class="iconify" data-icon="la:grin-wink" data-inline="false"></span>

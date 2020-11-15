@@ -10,12 +10,7 @@
 
 	<!--a href="{{ link | prepend: site.baseurl | prepend: site.url }}" -->
 	<a href="{{ "/whoami/" }}">
-		"{{ site.white_rabit }}"
-		"{{ site.logo_url }}"
-		"{{page.url}}"
-		{% if page.url == '/freelace.html' %}
-			<h1>Freeee</h1>
-			<h1>{{ site.white_rabit }}</h1>
+		{% if page.url == '/freelace' %}
 			<img src="{{ site.white_rabit }}" alt="" class="logo-avatar">
 		{% else %}
 			<img src="{{ site.logo_url }}" alt="" class="logo-avatar">

@@ -18,4 +18,4 @@ title: Freelance
 
 I mostly work with start-ups. Every now and then take up some independent projects.
 
-Hire me of you want **High quality** products. I do consulting for free.
+Hire me of you are looking for affordable high quality products. I do consultation for free.

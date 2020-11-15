@@ -11,7 +11,9 @@
 	<!--a href="{{ link | prepend: site.baseurl | prepend: site.url }}" -->
 	<a href="{{ "/whoami/" }}">
 		{% if page.url == '/freelace.html' %}
-			<img src="https://raw.githubusercontent.com/rakesh4real/Brown-Corpus/master/rabitwhite.png" alt="" class="logo-avatar">
+			<h1>Freeee</h1>
+			<h1>{{ site.white_rabit }}</h1>
+			<img src="{{ site.white_rabit }}" alt="" class="logo-avatar">
 		{% else %}
 			<img src="{{ site.logo_url }}" alt="" class="logo-avatar">
 		{% endif %}

@@ -16,6 +16,4 @@ title: Freelance
 
 ### Hire Me As a Freelancer
 
-I mostly work with start-ups. Every now and then take up some independent projects.
-
-Hire me of you are looking for affordable high quality products. I do consultation for free.
+I mostly work with start-ups. Every now and then take up some independent projects. Hire me of you are looking for high quality products for affordable price. I do consultation for free.

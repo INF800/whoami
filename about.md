@@ -14,7 +14,7 @@ title: About
 </section>
 
 My name is Asapanna Rakesh, you can call me Rakesh.
-I’m a self-taught programmer and machine learnig practitioner currently living in India. In the past I’ve been:
+I’m a self-taught programmer and machine learning practitioner currently living in India. In the past I’ve been:
 
 - Google AI machine learning facilitator
 - 2019 Code-In Mentor for Tensorflow

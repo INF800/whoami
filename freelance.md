@@ -16,4 +16,6 @@ title: Freelance
 
 ### Hire Me As a Freelancer
 
-I mostly work with start-ups. Every now and then some independent projects if they catch my attention or if I want to kill some time.
+I mostly work with start-ups. Every now and then take up some independent projects.
+
+Hire me of you want **High quality** products in limited period of time.

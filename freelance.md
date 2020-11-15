@@ -14,6 +14,6 @@ title: Freelance
 </section>
 
 
-### Hire Me As a Freelancer
+### Hire me as a freelancer
 
 I mostly work with start-ups. Every now and then take up some independent projects. Hire me of you are looking for **high quality** products at **affordable** price. I do consultation for free.

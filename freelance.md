@@ -14,4 +14,6 @@ title: Projects
 </section>
 
 
-### White Rabbit
+### Hire me as a freelancer
+
+I mostly work with start-ups. Every now and then some independant projects when I am free or interested or broke.

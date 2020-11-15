@@ -17,3 +17,7 @@ title: Freelance
 ### Hire Me As a Freelancer
 
 I mostly work with start-ups. Every now and then some independant projects when I am free or interested or broke.
+
+- I am **Affordable**
+- I build **High Quality** products
+- I am **Fast**

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freelance
+title: Need a Freelancer?
 ---
 
 <section>

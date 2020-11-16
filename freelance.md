@@ -13,7 +13,6 @@ title: Freelance
 	<div></div>
 </section>
 
-
-### Hire me as a freelancer
+![A](assets/freel.png)
 
 I mostly work with start-ups. Every now and then take up some independent projects. Hire me of you are looking for **high quality** products at **affordable** price. I do consultation for free.

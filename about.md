@@ -5,13 +5,13 @@ title: About
 
 <section>
 	<div style="text-align: center;">
-		<span class="hlink " onclick="window.location='/whoami/'" style="color: rgba(0, 0, 0, 0.4)">About</span> • 
+		<span class="hlink " onclick="window.location='/whoami/'" style="color: rgba(0, 0, 0, 0.7)">About</span> • 
 		<span class="hlink " onclick="window.location='/whoami/blog'">Blog</span> • 
-		<span class="hlink " onclick="window.location='/whoami/projects'">Projects</span> • 
-		<span class="hlink " onclick="window.location='/whoami/freelance'">Freelance</span>
+		<span class="hlink " onclick="window.location='/whoami/projects'">Projects</span>
 	</div>
 	<div></div>
 </section>
+
 
 My name is Asapanna Rakesh, you can call me Rakesh.
 I’m a self-taught programmer and machine learning practitioner currently living in India. In the past I’ve been:

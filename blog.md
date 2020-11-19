@@ -6,9 +6,8 @@ title: Blog
 <section>
 	<div style="text-align: center;">
 		<span class="hlink " onclick="window.location='/whoami/'">About</span> • 
-		<span class="hlink " onclick="window.location='/whoami/blog'" style="color: rgba(0, 0, 0, 0.4)">Blog</span> • 
-		<span class="hlink " onclick="window.location='/whoami/projects'">Projects</span> • 
-		<span class="hlink " onclick="window.location='/whoami/freelance'">Freelance</span>
+		<span class="hlink " onclick="window.location='/whoami/blog'" style="color: rgba(0, 0, 0, 0.7)">Blog</span> • 
+		<span class="hlink " onclick="window.location='/whoami/projects'">Projects</span>
 	</div>
 	<div></div>
 </section>

@@ -7,12 +7,10 @@ title: Projects
 	<div style="text-align: center;">
 		<span class="hlink " onclick="window.location='/whoami/'">About</span> • 
 		<span class="hlink " onclick="window.location='/whoami/blog'">Blog</span> • 
-		<span class="hlink " onclick="window.location='/whoami/projects'" style="color: rgba(0, 0, 0, 0.4)">Projects</span> • 
-		<span class="hlink " onclick="window.location='/whoami/freelance'">Freelance</span>
+		<span class="hlink " onclick="window.location='/whoami/projects'" style="color: rgba(0, 0, 0, 0.7)">Projects</span>
 	</div>
 	<div></div>
 </section>
-
 
 ### Q-Learning
 

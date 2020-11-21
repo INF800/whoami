@@ -15,14 +15,14 @@ title: Projects
 
 ### Doodle Recognition
 
-![](assets/projs/qdraw.gif)
+![tm](assets/projs/qdraw.gif)
 
 Doodle Recognition with top 3 accuracy > 97% for 61 classes. Built with Tensorflow, ReactJS and FastAPI [[GitHub]](https://github.com/rakesh4real/qdraw)
 
 
 ### Q-Learning
 
-![](assets/projs/after.gif)
+![tm](assets/projs/after.gif)
 
 Q-Learning implementation from scratch using Numpy, FastAPI and ReactJS. [[Blog]](https://rakesh4real.github.io/whoami/q-learning) [[GitHub]](https://github.com/rakesh4real/game-one)
 

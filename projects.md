@@ -15,7 +15,7 @@ title: Projects
 
 ### Q-Learning
 
-![](assets/blogs/rf/qdraw.gif)
+![](assets/blogs/qdraw.gif)
 
 Doodle Recognition with top 3 accuracy > 97% for 61 classes [[GitHub]](https://github.com/rakesh4real/qdraw)
 

@@ -13,11 +13,11 @@ title: Projects
 </section>
 
 
-### Q-Learning
+### Doodle Recognition
 
 ![](assets/projs/qdraw.gif)
 
-Doodle Recognition with top 3 accuracy > 97% for 61 classes [[GitHub]](https://github.com/rakesh4real/qdraw)
+Doodle Recognition with top 3 accuracy > 97% for 61 classes. Built with Tensorflow, ReactJS and FastAPI [[GitHub]](https://github.com/rakesh4real/qdraw)
 
 
 ### Q-Learning

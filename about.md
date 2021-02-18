@@ -28,6 +28,6 @@ Euphoric intersection of research, engineering and product development in the fi
 
 I am humble and sincere and understanding. When it comes to tech, I am the most friendliest person on the internet! 
 
-To know the tools, technologies and programming languages I use, check out my [sourcerer stats](https://sourcerer.io/rakesh4real/). If you intend to hire me, you can find my [resume here](https://rakesh4real.github.io/resume-editable/AsapannaRakesh-resumev3.pdf).
+To know the tools, technologies and programming languages I use, check out my [sourcerer stats](https://sourcerer.io/rakesh4real/). If you intend to hire me, you can find my [resume here](https://rakesh4real.github.io/resume-editable/AsapannaRakesh-logitech.pdf).
 
 Thank you for your time. Hope to meet you someday :)

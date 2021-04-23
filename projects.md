@@ -13,6 +13,12 @@ title: Projects
 </section>
 
 
+### Gesture Recognition
+![tm](assets/projs/gesture_recognition_unoptimized.gif)
+
+Realtime client-side gesture recognition built with TFJS. Property of crejo.fun
+
+
 ### Doodle Recognition
 
 ![tm](assets/projs/qdraw.gif)

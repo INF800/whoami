@@ -16,7 +16,7 @@ title: Projects
 ### Gesture Recognition
 ![tm](assets/projs/gesture_recognition_unoptimized.gif)
 
-Realtime client-side gesture recognition built with TFJS. Property of crejo.fun
+Realtime client-side gesture recognition built for [Crejo.fun](https://crejo.fun)
 
 
 ### Doodle Recognition

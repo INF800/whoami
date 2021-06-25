@@ -23,20 +23,20 @@ Realtime client-side gesture recognition built for [Crejo.fun](https://crejo.fun
 
 ![tm](assets/projs/qdraw.gif)
 
-Doodle Recognition with top 3 accuracy > 97% for 61 classes. Built with Tensorflow, ReactJS and FastAPI [[GitHub]](https://github.com/rakesh4real/qdraw)
+Doodle Recognition with top 3 accuracy > 97% for 61 classes. Built with Tensorflow, ReactJS and FastAPI [[GitHub]](https://github.com/INF800/qdraw)
 
 
 ### Q-Learning
 
 ![tm](assets/blogs/rf/after.gif)
 
-Q-Learning implementation from scratch using Numpy, FastAPI and ReactJS. [[Blog]](https://rakesh4real.github.io/whoami/q-learning) [[GitHub]](https://github.com/rakesh4real/game-one)
+Q-Learning implementation from scratch using Numpy, FastAPI and ReactJS. [[Blog]](https://INF800.github.io/whoami/q-learning) [[GitHub]](https://github.com/INF800/game-one)
 
 ### Teachable Machine
 
 ![tm](assets/projs/teachablemachine.gif)
 
-Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier. [[Live]](https://rakesh4real.github.io/face-recognition/) [[GitHub]](https://github.com/rakesh4real/face-recognition)
+Face detection and recognition using client-side Tensorflow.js with simple transfer learning. Currently relies on Facemesh model, Mobilenet and KNN classifier. [[Live]](https://INF800.github.io/face-recognition/) [[GitHub]](https://github.com/INF800/face-recognition)
 
 <div class="divider"></div>
 
@@ -44,7 +44,7 @@ Face detection and recognition using client-side Tensorflow.js with simple trans
 
 ![tm](assets/projs/autocomplete.gif)
 
-Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English. [[Live]](https://incomplete-me.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/next-word-sentence-pred-api) 
+Autocomplete input field using custom version of Trie tree grown with 10k most popular english words from Google-1000-English. [[Live]](https://incomplete-me.herokuapp.com/) [[GitHub]](https://github.com/INF800/next-word-sentence-pred-api) 
 
 <div class="divider"></div>
 
@@ -52,12 +52,12 @@ Autocomplete input field using custom version of Trie tree grown with 10k most p
 
 ![tm](assets/projs/cbot.gif)
 
-Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP]. [[Live]](https://rakesh4real.github.io/chatbot-api-demo/) [[GitHub]](https://github.com/rakesh4real/chatbot-api-demo/)
+Build custom chatbot with predefined knowledge graph supported by drag-and-drop UI [WIP]. [[Live]](https://INF800.github.io/chatbot-api-demo/) [[GitHub]](https://github.com/INF800/chatbot-api-demo/)
 
 <div class="divider"></div>
 
 ### Ghost Nation
-A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection. [[Live]](https://rakesh4real.github.io/P2P-V2/) [[GitHub]](https://github.com/rakesh4real/P2P-V2)
+A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection. [[Live]](https://INF800.github.io/P2P-V2/) [[GitHub]](https://github.com/INF800/P2P-V2)
 
 <div class="divider"></div>
 
@@ -65,7 +65,7 @@ A.I powered peer-to-peer client side video stream/chat with - video/audio chat, 
 
 ![tm](assets/projs/filter.png)
 
-Filter for communities is an open-source application/API that let's you connect with people whom you are looking for. [[Live]](https://vis-filter.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/FILTER)
+Filter for communities is an open-source application/API that let's you connect with people whom you are looking for. [[Live]](https://vis-filter.herokuapp.com/) [[GitHub]](https://github.com/INF800/FILTER)
 
 <div class="divider"></div>
 
@@ -73,12 +73,12 @@ Filter for communities is an open-source application/API that let's you connect 
 
 ![tm](assets/projs/ttt.gif)
 
-Play Tic-Tac-Toe powered by minimax algorithm. Optimized with memoisation and alpha-beta pruning. [[Live]](https://rakesh4real.github.io/tictactoe/) [[GitHub]](https://github.com/rakesh4real/tictactoe)
+Play Tic-Tac-Toe powered by minimax algorithm. Optimized with memoisation and alpha-beta pruning. [[Live]](https://INF800.github.io/tictactoe/) [[GitHub]](https://github.com/INF800/tictactoe)
 
 <div class="divider"></div>
 
 ### When were you Productive ?
-Find at which interval of time you were most productive/profited using Kadane's algorithm. Cython Backend for faster processing. [[Live]](https://max-ss.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/Kladane-MSS)
+Find at which interval of time you were most productive/profited using Kadane's algorithm. Cython Backend for faster processing. [[Live]](https://max-ss.herokuapp.com/) [[GitHub]](https://github.com/INF800/Kladane-MSS)
 
 <div class="divider"></div>
 
@@ -86,9 +86,9 @@ Find at which interval of time you were most productive/profited using Kadane's 
 
 ![tm](assets/projs/fx.gif)
 
-Get real-time live forex market details for popular 26 currency pairs like high value, change in price, percent change and much more. [[Live]](https://realtime-forex.herokuapp.com/) [[GitHub]](https://github.com/rakesh4real/realtime-forex-api)
+Get real-time live forex market details for popular 26 currency pairs like high value, change in price, percent change and much more. [[Live]](https://realtime-forex.herokuapp.com/) [[GitHub]](https://github.com/INF800/realtime-forex-api)
 
 <div class="divider"></div>
 
 ### Client Side Web Diary
-Built on top of IndexedDB you can write diary that you can truly own. Encryption using AES symetric key. [[Live]](http://rakesh4real.github.io/logs) [[GitHub]](https://github.com/rakesh4real/logs)
+Built on top of IndexedDB you can write diary that you can truly own. Encryption using AES symetric key. [[Live]](http://INF800.github.io/logs) [[GitHub]](https://github.com/INF800/logs)

@@ -60,10 +60,10 @@ title: Blog
 		{% endfor %}
 	{% endfor %}
 
-	<h3 class="code">Misc</h3>
+	<h3 class="code">Miscellaneous</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
-			{% if c == 'Miscellaneous' %}
+			{% if c == 'Misc' %}
 
 			<ul>
 				<li>

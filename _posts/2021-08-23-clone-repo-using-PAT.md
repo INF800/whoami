@@ -8,9 +8,6 @@ category:
 
 ### Clone private repository using PAT (personal access token) 
 
----
-
-
 Use the following command:
 
 ```

@@ -26,3 +26,5 @@ npm link <package-name>
 ```
 
 > That's it 🤯
+
+Read more at https://docs.npmjs.com/cli/v7/commands/npm-link

@@ -19,5 +19,5 @@ We will focus only on model building. To not over complicate things, let us assu
 
 ..And feature engineering if applicabel
 
-0. Random baseline
+0. Random baseline based on distribution of target variable
 1. Using automl 

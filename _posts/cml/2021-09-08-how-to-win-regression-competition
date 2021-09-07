@@ -1,0 +1,23 @@
+---
+title: How to win regression competition
+updated: 2021-09-08 09:44
+tags: ml
+category: 
+- cml
+---
+
+## Objective function & it's significance
+
+Before we start, understanding the objective function is critical to model building task. 
+Here, we are optimizing for RMSE. Unlike MSE, RMSE is in same scale as the target variable.
+
+## Handle missing values and clean the data
+
+We will focus only on model building. To not over complicate things, let us assume data is clean and there are no missing values. [This dataset from tabular series fits our needs](https://www.kaggle.com/c/tabular-playground-series-aug-2021)!
+
+## Model building
+
+..And feature engineering if applicabel
+
+0. Random baseline
+1. Using automl 

@@ -25,3 +25,35 @@ category:
 - Updating pointers is easy because array is sorted. Updating left/right increases/decreases sum as array is sorted. 
 - The increase/decreases will never overshoot the solution because array is sorted.
 
+```java
+// Runtime: 1 ms, faster than 58.31% of Java online submissions for Two Sum II - Input array is sorted.
+// Memory Usage: 41.4 MB, less than 28.48% of Java online submissions for Two Sum II - Input array is sorted.
+
+import java.lang.*;
+
+class Solution {
+    public int[] twoSum(int[] numbers, int target) {
+        int[] pairs = {0, 0};
+        int l = 0;
+        int r = numbers.length-1;
+        
+        while (l<r){
+            int sum = numbers[l]+numbers[r];
+            if (sum==target){
+                pairs[0] = l+1; // 1-indexed
+                pairs[1] = r+1; // 1-indexed
+                return pairs;
+            }
+            
+            // update rule
+            if (sum<target){
+                l++;
+            } else if (sum>target){
+                r--;
+            }
+        }
+        
+        return pairs;
+    }
+}
+```

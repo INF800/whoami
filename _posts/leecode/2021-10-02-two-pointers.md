@@ -8,15 +8,21 @@ category:
 
 ## List of two pointer problems
 
-[^0]: Container with most water
-[^1]: Two sum II
-[^2]: Two sum III(### 1. Two sum II)
-
+1. Container with most water
+2. Two sum II
+3. Two sum III
 
 <div class="divider"></div>
 
+### 1. Container with most water
 
-### 1. Two sum II
+```java
+// todo
+```
+
+<div class="divider"></div>
+
+### 2. Two sum II
 
 [Leetcode Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
@@ -57,3 +63,13 @@ class Solution {
     }
 }
 ```
+
+<div class="divider"></div>
+
+### 2. Two sum III
+
+```java
+// todo
+```
+
+<div class="divider"></div>

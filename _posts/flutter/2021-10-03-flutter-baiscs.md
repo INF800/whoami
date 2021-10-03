@@ -58,13 +58,13 @@ There are two types of body widgets - `Row` and `Column`. We will be mostly usin
 Types of axes: Axes are lines along screen. These are keys to `Column` or `Row` widget.
 
 - `mainAxisAlignment`: vertical line from top to bottom.
-- `mainAxisAlignment`: horizontal line from left to right.
+- `crossAxisAlignment`: horizontal line from left to right.
 
 > We do the following inside `body` to get a successful view:
 > 
 > - Define body widget (`Row`, `Column` etc.) 
-> - Axis alignements
-> - `child` or `children`
+> - Add axis alignment
+> - Add `child` or `children`
 >
 > see the code below.
 

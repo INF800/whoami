@@ -53,13 +53,7 @@ Scaffold(
 >
 > see the whole code in blog page.
 
-There are two types of widgets - `Row` and `Column`. We will be mostly using column because of landscape orientation.
-
-
-Types of body widgets:
-
-- Column
-- Row
+There are two types of body widgets - `Row` and `Column`. We will be mostly using column because of landscape orientation.
 
 Types of axes: Axes are lines along screen. These are keys to `Column` or `Row` widget.
 

@@ -71,6 +71,8 @@ Types of axes: Axes are lines along screen. These are keys to `Column` or `Row` 
 > - Define body widget (`Row`, `Column` etc.) 
 > - Axis alignements
 > - `child` or `children`
+>
+> see the code below.
 
 ```dart
 body: Column(

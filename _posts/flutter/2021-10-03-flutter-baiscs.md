@@ -50,16 +50,51 @@ Scaffold(
 ```
 
 > **Note:** Container cannot exist all by itself. It needs to be added into `children` of `Column` or `Row`. And we have to define the axis keys like `mainAxisAlignment: MainAxisAlignment.start` and  `crossAxisAlignment: CrossAxisAlignment.strech`
+>
+> see the whole code in blog page.
+
+There are two types of widgets - `Row` and `Column`. We will be mostly using column because of landscape orientation.
 
 
-There are two types of widgets - *row* and *column*. We will be mostly using column because of landscape orientation.
+Types of body widgets:
 
-Types of axes: Axes are 
+- Column
+- Row
 
-- Main axis
-- Cross axis
+Types of axes: Axes are lines along screen. These are keys to `Column` or `Row` widget.
 
+- `mainAxisAlignment`: vertical line from top to bottom.
+- `mainAxisAlignment`: horizontal line from left to right.
 
-- Column widget
-- Row widget
-- 
+> We do the following inside `body` to get a successful view:
+> 
+> - Define body widget (`Row`, `Column` etc.) 
+> - Axis alignements
+> - `child` or `children`
+
+```dart
+body: Column(
+    mainAxisAlignment: MainAxisAlignment.start,
+    crossAxisAlignment: CrossAxisAlignment.stretch,
+    children: [
+    Container(
+        decoration: BoxDecoration(
+        color: Colors.red,
+        ),
+        child: Text('hi'),
+    ),
+        Container(
+        decoration: BoxDecoration(
+        color: Colors.green,
+        ),
+        child: Text('hi'),
+    ),
+        Container(
+        decoration: BoxDecoration(
+        color: Colors.blue,
+        ),
+        child: Text('hi'),
+    ),
+    ],
+));
+```

@@ -5,13 +5,6 @@ category:
 - flutter
 ---
 
----
-title: Fltter basics
-updated: 2021-10-03 23:37
-category: 
-- flutter
----
-
 > I will be following [this YT video](https://www.youtube.com/watch?v=pTJJsmejUOQ) from freecodecamp.
 >
 > Author's blog post: https://fluttercrashcourse.com/blog

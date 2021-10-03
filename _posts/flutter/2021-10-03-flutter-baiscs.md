@@ -5,7 +5,7 @@ category:
 - flutter
 ---
 
-> ### Credits
+> ### ✨ Credits
 >
 > I will be following [this YT video](https://www.youtube.com/watch?v=pTJJsmejUOQ) from freecodecamp.
 > 
@@ -18,13 +18,15 @@ category:
 
 
 
-## Introduction (summary)
+## 💖 Introduction (summary)
 
 Todo: (in the end)
 
 <div class="divider"></div>
 
-## [1. Layout in flutter](https://fluttercrashcourse.com/blog/02-layout-basics)
+## 1. Layout in flutter
+
+[blog](https://fluttercrashcourse.com/blog/02-layout-basics)
 
 Layouts control the way content is displayed dynamically.
 

@@ -30,6 +30,36 @@ Todo: (in the end)
 
 Layouts control the way content is displayed dynamically.
 
+For example, `Container` is same as `div` in html which stores content.
+
+Usage: 
+```dart
+Scaffold(
+    ...
+    body: Container(
+        // `decoration` defines how container
+        // is presented to user.
+        decoration: BoxDecoration( // keys: https://api.flutter.dev/flutter/painting/BoxDecoration-class.html
+            color: Colors.red, // (or) Color.fromRGBO(38, 38, 38, 0.4)
+        )
+
+        // `child` is the contents
+        child: Text('Content of a container.') 
+    )
+)
+```
+
+> **Note:** Container cannot exist all by itself. It needs to be added into `children` of `Column` or `Row`. And we have to define the axis keys like `mainAxisAlignment: MainAxisAlignment.start` and  `crossAxisAlignment: CrossAxisAlignment.strech`
+
+
 There are two types of widgets - *row* and *column*. We will be mostly using column because of landscape orientation.
 
+Types of axes: Axes are 
 
+- Main axis
+- Cross axis
+
+
+- Column widget
+- Row widget
+- 

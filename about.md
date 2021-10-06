@@ -19,27 +19,17 @@ My name is Asapanna Rakesh, you can call me Rakesh. I am a machine learning prac
 In the past I’ve been:
 
 
-• Core ML Engineer for India's largest geo-mapping company
-
-• Product-contributor for multiple startups
-
-• Google AI machine learning facilitator
-
-• Augmented reality developer for video-tech startup
-
-• 2019 Code-In Mentor for Tensorflow
-
-• Invited to Google office to present my startup for funding
-
-• Incuabatee for a failed start-up
-
-• Speaker, mentor and member for multiple tech communities
-
-• Engineer intern at Logitech International SA
-
-• Contributor for google/flax deep learning library in JAX
-
-• Freelancer, independent consultant and much more …
+• Core ML Engineer for India's largest geo-mapping company <br/>
+• Product-contributor for multiple startups<br/>
+• Google AI machine learning facilitator<br/>
+• Augmented reality developer for video-tech startup<br/>
+• 2019 Code-In Mentor for Tensorflow<br/>
+• Invited to Google office to present my startup for funding<br/>
+• Incuabatee for a failed start-up<br/>
+• Speaker, mentor and member for multiple tech communities<br/>
+• Engineer intern at Logitech International SA<br/>
+• Contributor for google/flax deep learning library in JAX<br/>
+• Freelancer, independent consultant and much more …<br/>
 
 
 Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in open-source / democratizing machine learning and love finding meaning to equations.

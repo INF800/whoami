@@ -13,21 +13,24 @@ title: About
 </section>
 
 
-My name is Asapanna Rakesh, you can call me Rakesh.
-I’m a self-taught programmer and machine learning practitioner currently living in India. In the past I’ve been:
+My name is Asapanna Rakesh, you can call me Rakesh. I am a machine learning practitioner, developer and a research engineer with demonstrated history of working in industry scale machine learning projects. I love implementing machine learning algorithms and build products that matter.
 
-- Google AI machine learning facilitator
-- 2019 Code-In Mentor for Tensorflow
-- Invited to Google office to present my startup for funding
-- Incuabatee for a failed start-up
-- Speaker and product-contributor for communities and startups
-- Product engineer intern at Logitech 
-- Freelancer and much more ...
+In the past I’ve been:
 
-Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in open-source / democratizing machine learning and love finding meaning to equations (check my blog). 
+• Core ML Engineer for India's largest geo-mapping company
+• Product-contributor for multiple startups
+• Google AI machine learning facilitator
+• Augmented reality developer for video-tech startup
+• 2019 Code-In Mentor for Tensorflow
+• Invited to Google office to present my startup for funding
+• Incuabatee for a failed start-up
+• Speaker, mentor and member for multiple tech communities
+• Engineer intern at Logitech International SA
+• Contributor for google/flax deep learning library in JAX
+• Freelancer, independent consultant and much more …
 
-I am humble and sincere and understanding. When it comes to tech, I am the most friendliest person on the internet! 
+Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in open-source / democratizing machine learning and love finding meaning to equations.
 
-To know the tools, technologies and programming languages I use, check out my [sourcerer stats](https://sourcerer.io/INF800/). If you intend to hire me, you can find my [resume here](https://INF800.github.io/resume-editable/AsapannaRakesh-Logitech.pdf).
+Currently I am building govai.in for affordable AI and quantum tech in India (releasing on 29th July 2022).
 
 Thank you for your time. Hope to meet you someday :)

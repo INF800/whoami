@@ -12,7 +12,7 @@ title: Projects
 	<div></div>
 </section>
 
-### Gesture Recognition
+### Motion Capture
 ![tm](assets/projs/demo.gif)
 
 Motion capture built for [Crejo.fun](https://crejo.fun)

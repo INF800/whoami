@@ -224,7 +224,7 @@ iframe {
   width: 100%;
 }
 article {
-  max-width: 500px;
+  max-width: 600px; /*500px;*/
   margin: 0 auto;
   h1.title {
     line-height: 1.4em;
@@ -249,8 +249,8 @@ article {
     margin: 30px 0;
   }
   p {
-    font-size: 15px;
-    line-height: 1.9em;
+    font-size: 12px;
+    line-height: 1.4em;
     word-wrap: break-word;
   }
   .footnote {

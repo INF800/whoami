@@ -2,7 +2,6 @@
 title: Understanding Q Learning - No Neural Nets Here!
 updated: 2020-10-19 04:37
 tags: 100DaysOfMLCode
-layout: samll_text_page
 category: 
 - Reinforcement Learning
 ---

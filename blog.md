@@ -19,7 +19,7 @@ title: Blog
 </section -->
 
 <section>
-
+	<!-- 
 	<h3 class="code">Deep Learning with Flax</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
@@ -39,6 +39,7 @@ title: Blog
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+	--> 
 	
 	<h3 class="code">Reinforcement Learning</h3>
 	{% for post in site.posts %}
@@ -60,6 +61,7 @@ title: Blog
 		{% endfor %}
 	{% endfor %}
 	
+	<!-- 
 	<h3 class="code">DSA (Leetcode)</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
@@ -79,7 +81,9 @@ title: Blog
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+	-->
 	
+	<!--
 	<h3 class="code">Flutter</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
@@ -99,7 +103,9 @@ title: Blog
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+	-->
 
+	<!--
 	<h3 class="code">Miscellaneous</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
@@ -119,6 +125,7 @@ title: Blog
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+	-->
 
 </section>
 

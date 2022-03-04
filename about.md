@@ -15,6 +15,7 @@ title: About
 
 Asapanna Rakesh (he/him) is an applied research engineer specializing in machine learning and deep learning. He loves modelling intelligent systems, solving problems and building products that matter. Currently he is:
 
+
 • Sr. Research Engineer @genesys-ai
 
 • Revolutionizing food tourism with UFF

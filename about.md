@@ -13,29 +13,23 @@ title: About
 </section>
 
 
-My name is Asapanna Rakesh, you can call me Rakesh. I am a machine learning practitioner, developer and a research engineer with demonstrated history of working in industry scale machine learning projects. I love implementing machine learning algorithms and build products that matter.
+Asapanna Rakesh (he/him) is an applied research engineer specializing in machine learning and deep learning. He loves modelling intelligent systems, solving problems and building products that matter. Currently he is:
 
+• Sr. Research Engineer @genesys-ai
+• Revolutionizing food tourism with UFF
+• Building intelligent systems @gov-ai
 
-In the past I’ve been:
+In the past he was:
 
-
-• Core ML Engineer for India's largest geo-mapping company <br/>
-• Product-contributor for multiple startups<br/>
-• Google AI machine learning facilitator<br/>
-• Augmented reality developer for video-tech startup<br/>
-• 2019 Code-In Mentor for Tensorflow<br/>
-• Invited to Google office to present my startup for funding<br/>
-• Incuabatee for a failed start-up<br/>
-• Speaker, mentor and member for multiple tech communities<br/>
-• Engineer intern at Logitech International SA<br/>
-• Contributor for google/flax deep learning library in JAX<br/>
-• Freelancer, independent consultant and much more …<br/>
-
-
-Euphoric intersection of research, engineering and product development in the field of machine learning and data science excite me. I believe in open-source / democratizing machine learning and love finding meaning to equations.
-
-
-Currently I am building govai.in for affordable AI and quantum tech in India (releasing on 29th July 2022).
+• Lead engineer and Data scientist
+• Product-contributor for multiple startups
+• Core ML Engineer for India's largest geo-mapping company 
+• Augmented reality developer for video-tech startup
+• Google AI machine learning facilitator
+• 2019 Code-In Mentor for Tensorflow
+• Invited to Google office to fund his start-up
+• Engineer intern at Logitech (Bluetooth Low Energy)
+• Freelancer, independent consultant and much more …
 
 
 Thank you for your time. Hope to meet you someday :)

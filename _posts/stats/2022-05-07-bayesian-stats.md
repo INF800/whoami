@@ -63,13 +63,18 @@ If events A and B are dependant, $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$. And 
 >
 > **Note:** This is called inclusion / exclusive fomula. $$\cup$$ and $$\cap$$ denote "or" and "and" respectively.
 
- | **Mutually Exclusive Events** | **Independant Events** 
+**Note** | **Mutually Exclusive Events** | **Independant Events** 
 --- | --- | ---
 **Occurance** | ❌ Simultaneously | ✅ Simultaneously
 **Influence** | ✅ Dependant | ❌ In-dependant |
 **Example** | If A occurs, B will not occur. | If A occurs, B may or may not occur 
 **Formula** | $$P(A\cap B) = 0$$ | $$P(A\cap B) = P(A)\dot P(B)$$
-**Venn** | ![mute](assets/blogs/bstats/mut-exclusive.png) | ![indep](assets/blogs/bstats/indep.png)
+
+> Mutually exclusive events A and B
+> ![mute](assets/blogs/bstats/mut-exclusive.png) 
+>
+> Independant events A and B
+> ![indep](assets/blogs/bstats/indep.png)
 
 <div class="divider"></div>
 

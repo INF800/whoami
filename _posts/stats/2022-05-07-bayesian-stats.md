@@ -18,9 +18,10 @@ category:
 # Contents
 
 1. L1 Background 📚
-    1.1 Rules of Probability 📐
-    1.2 Odds 😨
-    1.3 Expectations 💣
+
+    - Rules of Probability 📐
+    - Odds 😨
+    - Expectations 💣
 
 
 <div class="divider"></div>

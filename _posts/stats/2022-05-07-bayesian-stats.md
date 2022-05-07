@@ -15,7 +15,7 @@ category:
 
 <div class="divider"></div>
 
-# Contents
+# Content
 
 1. L1 Background 📚
 

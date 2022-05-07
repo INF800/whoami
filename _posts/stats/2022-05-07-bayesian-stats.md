@@ -17,10 +17,27 @@ category:
 
 ## Contents
 
+1. L1 Background
+
 
 <div class="divider"></div>
 
 
+### 1. L1 Background
+
+A. Rules of Probability
+
+These are undeniable.
+
+- Every *event* has *probability* associated with it.
+
+>  *Event* is written in captial letter. If $X$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
+> $$
+> \begin{align}
+> P(X  &= H) &= \frac{1}{2}  \\
+> P(X  &= T) &= \frac{1}{2}  \\
+> \end{align}
+> $$
 
 
 <div class="divider"></div>

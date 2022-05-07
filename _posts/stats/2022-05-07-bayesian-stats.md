@@ -17,20 +17,20 @@ category:
 
 # Contents
 
-1. L1 Background
-    1.1 Rules of Probability
-    1.2 Odds
-    1.3 Expectations
+1. L1 Background 📚
+    1.1 Rules of Probability 📐
+    1.2 Odds 😨
+    1.3 Expectations 💣
 
 
 <div class="divider"></div>
 
 
-## 1. L1 Background
+## 📚 L1 Background
 
 Required beginner-level foundations to undertand probability theory.
 
-### 1.1. Rules of Probability
+### 📐 Rules of Probability
 
 - Every *event* has *probability* associated with it.
 

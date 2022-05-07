@@ -55,15 +55,15 @@ Probabilites of all possible *events* must add upto 1. As a consequence, individ
 > 
 > $$ P(A^{c}) = 1 - P(A) \tag{4} $$
 
-If events A and B are dependant, $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$. And If they are mutually exclusive, $$P(A\cup B) = P(A) + P(B)$$
+If events A and B are dependant, $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$. And If they are mutually exclusive, $$P(A\cup B) = P(A) + P(B)$$. 
 
-> If mutually exclusive, $$P \left( \bigcup_{i=1}^{n} A_{i} \right) = \sum_{i=1}^{n} P(A_{i}) $$
->
-> $$P(A \cup B \cup C) = P(A) + P(B) + P(C) − P(A \cap B) − P(A \cap C) − P(B \cap C) + P(A \cap B \cap C)$$
->
+For three events, $$P(A \cup B \cup C) = P(A) + P(B) + P(C) − P(A \cap B) − P(A \cap C) − P(B \cap C) + P(A \cap B \cap C)$$
+
+If mutually exclusive, $$P \left( \bigcup_{i=1}^{n} A_{i} \right) = \sum_{i=1}^{n} P(A_{i}) $$
+
 > **Note:** This is called inclusion / exclusive fomula. $$\cup$$ and $$\cap$$ denote "or" and "and" respectively.
 
-**Note** | **Mutually Exclusive Events** | **Independant Events** 
+**Type** | **Mutually Exclusive Events** | **Independant Events** 
 --- | --- | ---
 **Occurance** | ❌ Simultaneously | ✅ Simultaneously
 **Influence** | ✅ Dependant | ❌ In-dependant |

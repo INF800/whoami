@@ -72,7 +72,7 @@ $$ -->
 **Type** | **Mutually Exclusive Events** | **Independant Events** 
 --- | --- | ---
 **Occurance** | ❌ Simultaneously | ✅ Simultaneously
-**Influence** | ✅ Dependant | ❌ In-dependant |
+**Influence** | ✅ Dependant | ❌ Dependant |
 **Example** | If A occurs, B will not occur. | If A occurs, B may or may not occur 
 
 > Mutually exclusive events A and B 

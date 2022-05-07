@@ -15,7 +15,7 @@ category:
 
 <div class="divider"></div>
 
-## Contents
+# Contents
 
 1. L1 Background
 
@@ -23,9 +23,9 @@ category:
 <div class="divider"></div>
 
 
-### 1. L1 Background
+## 1. L1 Background
 
-A. Rules of Probability
+### A. Rules of Probability
 
 These are undeniable.
 

@@ -34,8 +34,8 @@ These are undeniable.
 >  *Event* is written in captial letter. If $X$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
 > $$
 > \begin{align}
-> P(X  &= H) &= \frac{1}{2}  \\
-> P(X  &= T) &= \frac{1}{2}  \\
+> P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\
+> P(X  &= T) &= \frac{1}{2} \tag{2} \label{eq:tails} \\
 > \end{align}
 > $$
 

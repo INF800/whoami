@@ -42,7 +42,7 @@ Required beginner-level foundations to undertand probability theory.
     > \end{align}
     > $$
 
-- Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 and 1.
+- Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 & 1.
 
     > - Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
     > - $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$

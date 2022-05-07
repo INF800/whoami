@@ -49,7 +49,7 @@ Required beginner-level foundations to undertand probability theory.
     > 
     > $$
     > \begin{align}
-    > \[ \sum_{i \eq 0}^{n} P(X  \eq i) \eq 1 \] \\
+    > \sum_{i \eq 0}^{n} P(X  \eq i) \eq 1 \\
     > \end{align}
     > $$
 

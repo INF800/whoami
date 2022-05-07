@@ -9,6 +9,18 @@ category:
 
 ## Acknowledgement
 
-> Heavily relies on [this specialisation](https://www.coursera.org/learn/bayesian-statistics) by University of California, Santa Cruz.
+> Heavily relies on bayesian statistics specialisation by University of California, Santa Cruz [^1].
+
+<div class="divider"></div>
 
 ## Contents
+
+
+<div class="divider"></div>
+
+
+<div class="divider"></div>
+
+### References
+
+[^1]: Link to set of courses: https://www.coursera.org/learn/bayesian-statistics

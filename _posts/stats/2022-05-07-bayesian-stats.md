@@ -13,8 +13,6 @@ category:
 >
 >  *"The theory of probabilities is basically just common sense reduced to calculus; it makes one appreciate with exactness that which accurate minds feel with a sort of instinct, often without being able to account for it."* --Pierre-Simon Laplace
 
-![Laplace](assets/blogs/bstats/laplace.JPG)
-
 <div class="divider"></div>
 
 ## Contents

@@ -34,7 +34,7 @@ Required beginner-level foundations to undertand probability theory.
 
 - Every *event* has *probability* associated with it.
 
-    >  *Event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
+    > An *event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
     > $$
     > \begin{align}
     > P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\
@@ -44,8 +44,15 @@ Required beginner-level foundations to undertand probability theory.
 
 - Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 and 1.
 
-> - Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
-> - $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
+    > - Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
+    > - $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
+    > 
+    > $$
+    > \begin{align}
+    > \[ \sum_{i \eq 0}^{n} P(X  \eq i) \eq 1 \] \\
+    > \end{align}
+    > $$
+
 
 <div class="divider"></div>
 

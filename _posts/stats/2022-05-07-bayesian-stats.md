@@ -47,13 +47,13 @@ Every *event* has *probability* associated with it.
 
 Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 & 1. Similarly, *complement of an event A* i.e probability of it not happening is $$1 - P(A)$$
 
-> ⭐ Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
+> Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
 > 
-> ⭐ Both $$ \eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
+> Both $$ \eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
 > 
-> ⭐ $$ \sum_{i=0}^{n} P(X=i) = 1 \tag{4} $$
+> $$ \sum_{i=0}^{n} P(X=i) = 1 \tag{3} $$
 > 
-> ⭐ $$ P(A^{c}) = 1 - P(A) \tag{4} $$
+> $$ P(A^{c}) = 1 - P(A) \tag{4} $$
 
 <div class="divider"></div>
 

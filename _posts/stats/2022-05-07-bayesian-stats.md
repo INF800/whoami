@@ -57,7 +57,13 @@ Probabilites of all possible *events* must add upto 1. As a consequence, individ
 
 If events A and B are dependant, $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$. And If they are mutually exclusive, $$P(A\cup B) = P(A) + P(B)$$. 
 
-For three events, $$P(A \cup B \cup C) = P(A) + P(B) + P(C) − P(A \cap B) − P(A \cap C) − P(B \cap C) + P(A \cap B \cap C)$$
+For three events, 
+
+$$
+\begin{align}
+P(A \cup B \cup C) = P(A) + P(B) + P(C) − P(A \cap B) − P(A \cap C) − P(B \cap C) + P(A \cap B \cap C)
+\end{align}
+$$
 
 If mutually exclusive, $$P \left( \bigcup_{i=1}^{n} A_{i} \right) = \sum_{i=1}^{n} P(A_{i}) $$
 

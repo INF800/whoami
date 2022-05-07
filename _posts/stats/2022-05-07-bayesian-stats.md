@@ -57,13 +57,13 @@ Probabilites of all possible *events* must add upto 1. As a consequence, individ
 
 If events A and B are dependant, $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$. And If they are mutually exclusive, $$P(A\cup B) = P(A) + P(B)$$
 
->  | **Mutually Exclusive Events** | **Independant Events** 
-> --- | --- | ---
-> **Occurance** | ❌ Simultaneously | ✅ Simultaneously
-> **Influence** | ✅ Dependant | ❌ In-dependant |
-> **Example** | If A occurs, B will not occur. | If A occurs, B may or may not occur 
-> **Formula** | $$P(A\cap B) = 0$$ | $$P(A\cap B) = P(A)\dot P(B)$$
-> **Venn** | [](assets/blogs/bstats/mut-exclusive.png) | [indep](assets/blogs/bstats/indep.png)
+ | **Mutually Exclusive Events** | **Independant Events** 
+--- | --- | ---
+**Occurance** | ❌ Simultaneously | ✅ Simultaneously
+**Influence** | ✅ Dependant | ❌ In-dependant |
+**Example** | If A occurs, B will not occur. | If A occurs, B may or may not occur 
+**Formula** | $$P(A\cap B) = 0$$ | $$P(A\cap B) = P(A)\dot P(B)$$
+**Venn** | [](assets/blogs/bstats/mut-exclusive.png) | [indep](assets/blogs/bstats/indep.png)
 
 <div class="divider"></div>
 

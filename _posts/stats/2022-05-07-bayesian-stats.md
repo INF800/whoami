@@ -57,7 +57,7 @@ Probabilites of all possible *events* must add upto 1. As a consequence, individ
 
 If events A and B are dependant, $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$. And If they are mutually exclusive, $$P(A\cup B) = P(A) + P(B)$$
 
-> If mutually exclusive, $$P \left( \bigcup_{i=1}^{\n} A_{i} \right) = \sum_{i=1}^{n} P(A_{i}) $$
+> If mutually exclusive, $$P \left( \bigcup_{i=1}^{n} A_{i} \right) = \sum_{i=1}^{n} P(A_{i}) $$
 
 
  | **Mutually Exclusive Events** | **Independant Events** 

@@ -31,7 +31,7 @@ These are undeniable.
 
 - Every *event* has *probability* associated with it.
 
->  *Event* is written in captial letter. If $X$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
+>  *Event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
 > $$
 > \begin{align}
 > P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\

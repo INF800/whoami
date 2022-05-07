@@ -85,7 +85,19 @@ $$ -->
 >
 > We will cover inependant events later.
 
+### 😨 Odds
+
+Probabilities re-expressed; We calculate probabiliy from odds.
+
+If event $$A$$ has probability values of $$1/6$$ or $$3/10$$ it's corresponding *odds*' values will be $$1:5$$ or $$3:7$$ respectively. Similarly, *odds-against* values would be $$5:1$$ or $$7:3$$ respectively. 
+
+> $$\emph{O}(A) = \frac{P(A)}{P(A^{c})}$$ i.e $$\frac{P(A)}{(1 - P(A))}$$
+> 
+> **Note:** Odds may not sum to 1 or 100.
+
 <div class="divider"></div>
+
+
 
 ### References
 

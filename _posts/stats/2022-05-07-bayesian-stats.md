@@ -49,7 +49,7 @@ Required beginner-level foundations to undertand probability theory.
     > 
     > $$
     > \begin{align}
-    > \sum_{i &= 0}^{n} P(X  &= i) &= 1 \\
+    > \sum_{i=0}^{n} P(X=i) &= 1 \\
     > \end{align}
     > $$
 

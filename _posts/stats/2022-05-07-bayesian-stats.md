@@ -5,6 +5,10 @@ category:
 - Statistics
 ---
 
-> Draft version
+> 🤐 Draft version
+
+## Acknowledgement
+
+> Heavily relies on [this specialisation](https://www.coursera.org/learn/bayesian-statistics) by University of California, Santa Cruz.
 
 ## Contents

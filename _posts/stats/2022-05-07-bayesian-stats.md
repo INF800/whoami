@@ -74,12 +74,13 @@ If mutually exclusive, $$P \left( \bigcup_{i=1}^{n} A_{i} \right) = \sum_{i=1}^{
 **Occurance** | ❌ Simultaneously | ✅ Simultaneously
 **Influence** | ✅ Dependant | ❌ In-dependant |
 **Example** | If A occurs, B will not occur. | If A occurs, B may or may not occur 
-**Formula** | $$P(A\cap B) = 0$$ | $$P(A\cap B) = P(A)\dot P(B)$$
 
-> Mutually exclusive events A and B
+> Mutually exclusive events A and B 
+> $$P(A\cap B) = 0$$ 
 > ![mute](assets/blogs/bstats/mut-exclusive.png) 
 >
 > Independant events A and B
+> $$P(A\cap B) = P(A)\dot P(B)$$
 > ![indep](assets/blogs/bstats/indep.png)
 
 <div class="divider"></div>

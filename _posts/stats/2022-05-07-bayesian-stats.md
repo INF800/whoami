@@ -18,6 +18,9 @@ category:
 # Contents
 
 1. L1 Background
+    1.1 Rules of Probability
+    1.2 Odds
+    1.3 Expectations
 
 
 <div class="divider"></div>
@@ -25,20 +28,24 @@ category:
 
 ## 1. L1 Background
 
-### A. Rules of Probability
+Required beginner-level foundations to undertand probability theory.
 
-These are undeniable.
+### 1.1. Rules of Probability
 
 - Every *event* has *probability* associated with it.
 
->  *Event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
-> $$
-> \begin{align}
-> P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\
-> P(X  &= T) &= \frac{1}{2} \tag{2} \label{eq:tails} \\
-> \end{align}
-> $$
+    >  *Event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
+    > $$
+    > \begin{align}
+    > P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\
+    > P(X  &= T) &= \frac{1}{2} \tag{2} \label{eq:tails} \\
+    > \end{align}
+    > $$
 
+- Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 and 1.
+
+> - Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
+> - $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
 
 <div class="divider"></div>
 

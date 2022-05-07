@@ -33,26 +33,26 @@ Required beginner-level foundations to undertand probability theory.
 
 ### 📐 Rules of Probability
 
-- Every *event* has *probability* associated with it.
+Every *event* has *probability* associated with it.
 
-    > An *event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
-    > $$
-    > \begin{align}
-    > P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\
-    > P(X  &= T) &= \frac{1}{2} \tag{2} \label{eq:tails} \\
-    > \end{align}
-    > $$
+> An *event* is written in captial letter. If $$X$$ is probability of a coin falling with heads ($$H$$) or tails ($$T$$), we can represent it as
+> $$
+> \begin{align}
+> P(X  &= H) &= \frac{1}{2} \tag{1} \label{eq:heads} \\
+> P(X  &= T) &= \frac{1}{2} \tag{2} \label{eq:tails} \\
+> \end{align}
+> $$
 
-- Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 & 1.
+Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 & 1.
 
-    > - Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
-    > - $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
-    > 
-    > $$
-    > \begin{align}
-    > \sum_{i=0}^{n} P(X=i) &= 1 \\
-    > \end{align}
-    > $$
+> - Sum of $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ is $$1$$ because we are assuming that there is not other event that is possible for a coin toss *event*.
+> - $$\eqref{eq:heads}$$ and $$\eqref{eq:tails}$$ both are $$\in [0, 1]$$
+> 
+> $$
+> \begin{align}
+> \sum_{i=0}^{n} P(X=i) &= 1 \\
+> \end{align}
+> $$
 
 
 <div class="divider"></div>

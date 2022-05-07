@@ -43,7 +43,7 @@ Every *event* has *probability* associated with it.
 > \end{align}
 > $$
 >
-> $$P(X  &= T)$$ can also be written as $$P(T)$$
+> **Note:** $$P(X=T)$$ can also be written as $$P(T)$$
 
 Probabilites of all possible *events* must add upto 1. As a consequence, individual probabilities must always lie between 0 & 1. Similarly, *complement of an event A* i.e probability of it not happening is $$1 - P(A)$$
 

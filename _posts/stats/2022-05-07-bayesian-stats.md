@@ -102,7 +102,7 @@ Expectation $$E$$ for a random variable $$X\in \text{all possible events}$$ is a
 
 $$
 \begin{align}
-E(X) = \sum_{i=1}^{n} x_{i} \dot P(X = x_{i})
+E(X) = \sum_{i=1}^{n} x_{i} \cdot P(X = x_{i})
 \end{align}
 $$
 

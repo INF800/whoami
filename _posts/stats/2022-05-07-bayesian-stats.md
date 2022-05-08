@@ -96,8 +96,20 @@ If event $$A$$ has probability values of $$1/6$$ or $$3/10$$ it's corresponding 
 > **Note:** Odds may not sum to 1 or 100.
 
  
-### 💣 Expectations
+### 💣 Expectation
 
+Expectation $$E$$ for a random variable $$X\in \text{all possible events}$$ is an average value that you'd expect weighted by their probabilities.
+
+$$
+\begin{align}
+E(X) = \sum_{i=1}^{n} x_{i} \dot P(X = x_{i})
+\end{align}
+$$
+
+
+> while rolling a dice, $$X$$ may be one of $${1,2,3,4,5,6}$$ and their corresponding probabilities are $${1/6, 1/6, 1/6, 1/6, 1/6, 1/6}$$. So on an average (weighted), we'd expect $$3.5$$. 
+>
+> **Note:** $$E = 3.5$$ may or may not be one of the events i.e it may not be on one of die's faces at all.
 
 
 <div class="divider"></div>

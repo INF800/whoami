@@ -23,6 +23,12 @@ category:
     - Odds ♻
     - Expectations 💣
 
+2. Frameworks of Probability
+    - Classical ⚖
+    - Frequentist ♾
+    - Bayesian 🎦
+
+3. 
 
 <div class="divider"></div>
 
@@ -114,7 +120,26 @@ $$
 
 <div class="divider"></div>
 
+## Frameworks of Probability
 
+All frameworks must be **coherent** with rules of probability described above.
+
+### ⚖ Classical Framework
+
+All outcomes are **equally likely** in this framework. Rolling a fair die or tossing a fair coin for example.
+
+### ♾ Frequentist 
+
+Compute **relative frequency** by running (hypothetically) infinite number of experiments. It causes many philosophical issues and is more *objective*.
+
+### 🎦 Bayesian
+
+Probabilities are computed based on **personal perspective**. Different people with different data get different results due to different perspective.
+
+It is subjective and more intuitive compared to frequentist framework.
+
+
+<div class="divider"></div>
 
 ### References
 

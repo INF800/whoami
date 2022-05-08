@@ -17,23 +17,28 @@ category:
 
 # Content
 
-1. L1 Background 📚
+1. Background 📚
 
     - Rules of Probability 📐
     - Odds ♻
     - Expectations 💣
 
 2. Frameworks of Probability
+    
     - Classical ⚖
     - Frequentist ♾
     - Bayesian 🎦
+    - Subjective & Objective Probability 🙄
 
-3. 
+3. Bayes Theorem
+    
+    - Conditional Probability
+    - Bayes Theorem
 
 <div class="divider"></div>
 
 
-## 📚 L1 Background
+## 📚 Background
 
 Required beginner-level foundations to understand probability theory.
 
@@ -138,13 +143,13 @@ Probabilities are computed based on **personal perspective**. Different people w
 
 It is **subjective**  in nature and more intuitive to understand compared to frequentist framework.
 
-### The Difference 
+### 🙄 The Difference 
 
 **Subjective Probability** | **Objective Probability** 
 --- | ---
 Based on personal belief, experience or knowledge. | Based on quantitative data and hard facts.
 Bayesian framework | Classical / frequentist framework
-It is best you can do with no data | Data is important necessity
+It is best you can do with no data | Data is an important necessity
 Eg. It is cloudy today at my place. So, I take my umbrella. | Forecast is 70% chance of rain today. So, take my umbrella.
 
 

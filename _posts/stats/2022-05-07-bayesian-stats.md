@@ -126,17 +126,26 @@ All frameworks must be **coherent** with rules of probability described above.
 
 ### ⚖ Classical Framework
 
-All outcomes are **equally likely** in this framework. Rolling a fair die or tossing a fair coin for example.
+All outcomes are **equally likely** in this framework. Rolling a fair die or tossing a fair coin for example. It is **objective** in nature.
 
 ### ♾ Frequentist 
 
-Compute **relative frequency** by running (hypothetically) infinite number of experiments. It causes many philosophical issues and is more *objective*.
+Compute **relative frequency** by running (hypothetically) infinite number of experiments. It causes many philosophical issues and is **objective** in nature.
 
 ### 🎦 Bayesian
 
 Probabilities are computed based on **personal perspective**. Different people with different data get different results due to different perspective.
 
-It is subjective and more intuitive compared to frequentist framework.
+It is **subjective**  in nature and more intuitive to understand compared to frequentist framework.
+
+
+> **Subjective Probability** | **Objective Probability** 
+> --- | ---
+> Based on personal belief, experience or knowledge. | Based on quantitative data and hard facts.
+> Bayesian framework | Classical / frequentist framework
+> It is best you can do with no data | Data is important necessity
+> Eg. It is cloudy today at my place. So, I take my umbrella. | Forecast is 70% chance of rain today. So, take my umbrella.
+
 
 
 <div class="divider"></div>

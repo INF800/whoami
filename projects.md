@@ -12,6 +12,20 @@ title: Projects
 	<div></div>
 </section>
 
+
+### Market + Tech = MarkTech
+
+![tlb](assets/projs/4x.gif)
+
+Market scraping, analytics and prediction [[GitHub]](https://github.com/INF800/marktech)
+
+### Serverless Social Bot
+
+![tlb](assets/projs/tlb.gif)
+
+Serverless bot to post Twitter activity over Linkedin [[GitHub]](https://github.com/INF800/twitter_linkedin_bot)
+
+
 ### Motion Capture
 ![tm](assets/projs/demo.gif)
 

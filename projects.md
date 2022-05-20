@@ -12,7 +12,7 @@ title: Projects
 	<div></div>
 </section>
 
-### Simple Web3 Wrapper
+### Minimal Web3 Wrapper
 
 ![sw3w](assets/projs/sw3w.png)
 

@@ -12,6 +12,11 @@ title: Projects
 	<div></div>
 </section>
 
+### Simple Web3 Wrapper
+
+![sw3w](assets/projs/sw3w.png)
+
+All required steps to create and deploy a simple web3 app on local blockchain. [[GitHub]](https://github.com/gov-ai/web3_wrapper)
 
 ### Market + Tech = MarkTech
 

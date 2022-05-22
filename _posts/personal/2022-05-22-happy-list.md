@@ -8,7 +8,7 @@ category:
 
 ## Background
 
-I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)* and a small snippet shown below resonated with me, my thoughts and the hustle I am doing since past two years.
+I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)* and a small snippet shown below resonated with me, my thoughts and my hustle I am doing since past two years.
 
 ![snip001](assets/blogs/personal/photo_2022-05-22_23-13-38.jpg)
 

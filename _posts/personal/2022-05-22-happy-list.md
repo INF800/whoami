@@ -17,6 +17,6 @@ Hopefully this list of small and meaningful wins will not only bring joy back in
 
 ### No Ordinary Moments.
 
-**22nd May 2022:** Almost two years I lost my watch & wallet to greed. Two years later, I am wearing a new watch - gifted by my brother. Somethings are worth more than you know.
+**22nd May 2022:** Almost two years back I lost my watch & wallet to greed. My brother gifted me a watch today.
 
 ![watch](assets/blogs/personal/photo_2022-05-22_23-13-34.jpg)

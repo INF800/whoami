@@ -26,7 +26,7 @@ Hopefully this list of small and meaningful wins will not only bring joy back in
 
 ### Right Place.
 
-**20th March 2020:** It isn't the code that you write keeps you happy, it is the people with whom you write it with.
+**March 2020:** It isn't the code that you write keeps you happy, it is the people with whom you write it with.
 
 ![log](assets/blogs/personal/logitech.png)
 

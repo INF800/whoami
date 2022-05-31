@@ -12,23 +12,11 @@ title: Projects
 	<div></div>
 </section>
 
-### Minimal Web3 Wrapper
-
-![sw3w](assets/projs/sw3w.png)
-
-All required steps to create and deploy a simple web3 app on local blockchain. [[GitHub]](https://github.com/gov-ai/web3_wrapper)
-
 ### Market + Tech = MarkTech
 
 ![tlb](assets/projs/4x.gif)
 
 Market scraping, analytics and prediction [[GitHub]](https://github.com/INF800/marktech)
-
-### Serverless Social Bot
-
-![tlb](assets/projs/tlb.gif)
-
-Serverless bot to post Twitter activity over Linkedin [[GitHub]](https://github.com/INF800/twitter_linkedin_bot)
 
 
 ### Motion Capture
@@ -48,7 +36,6 @@ Realtime client-side gesture recognition built for [Crejo.fun](https://crejo.fun
 ![tm](assets/projs/qdraw.gif)
 
 Doodle Recognition with top 3 accuracy > 97% for 61 classes. Built with Tensorflow, ReactJS and FastAPI [[GitHub]](https://github.com/INF800/qdraw)
-
 
 ### Q-Learning
 
@@ -84,6 +71,20 @@ Build custom chatbot with predefined knowledge graph supported by drag-and-drop 
 A.I powered peer-to-peer client side video stream/chat with - video/audio chat, text messaging, unlimited size file transfer and person detection. [[Live]](https://INF800.github.io/P2P-V2/) [[GitHub]](https://github.com/INF800/P2P-V2)
 
 <div class="divider"></div>
+
+
+### Serverless Social Bot
+
+![tlb](assets/projs/tlb.gif)
+
+Serverless bot to post Twitter activity over Linkedin [[GitHub]](https://github.com/INF800/twitter_linkedin_bot)
+
+### Minimal Web3 Wrapper
+
+![sw3w](assets/projs/sw3w.png)
+
+All required steps to create and deploy a simple web3 app on local blockchain. [[GitHub]](https://github.com/gov-ai/web3_wrapper)
+
 
 ### Filter for communities
 

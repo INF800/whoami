@@ -14,9 +14,19 @@ I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/li
 
 Hopefully this list of small and meaningful wins will not only bring joy back into my work but also into my life.
 
+<div class="divider"></div>
 
 ### No Ordinary Moments.
 
 **22nd May 2022:** Almost two years back I lost my watch & wallet to greed. My brother bought me a brand new watch today.
 
 ![watch](assets/blogs/personal/photo_2022-05-22_23-13-34.jpg)
+
+<div class="divider"></div>
+
+### Right Place
+
+**20th March 2020:** It isn't the code you write that keeps you happy, it is the people with whom you write it with.
+
+![log](assets/blogs/personal/logitech.png)
+

@@ -24,7 +24,7 @@ Hopefully this list of small and meaningful wins will not only bring joy back in
 
 <div class="divider"></div>
 
-### Right Place
+### Right Place.
 
 **20th March 2020:** It isn't the code that you write keeps you happy, it is the people with whom you write it with.
 

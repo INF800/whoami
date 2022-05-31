@@ -13,7 +13,7 @@ title: About
 </section>
 
 
-Asapanna Rakesh (he/him) is an applied research engineer specializing in machine learning and deep learning. He loves modelling intelligent systems, solving problems and building products that matter. Currently he is:
+Asapanna Rakesh (he/him) is an applied research and software engineer specializing in machine learning and deep learning. He loves modelling intelligent systems, solving problems and building products that matter. Currently he is:
 
 • Applied Research & Software Engineer at GovAI <br/>
 • Sr. Research & Geospatial AI/3DML Engineer at Genesys <br/>

@@ -26,7 +26,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Right Place.
 
-**March 2020:** It isn't the code that you write keeps you happy, it is the people with whom you write it with.
+**March 2020:** Early in my career after working 1.5 years alone for my own startup, I was fortunate enough to realise - It isn't the code that you write keeps you happy, it is the people with whom you write it with.
 
-![log](assets/blogs/personal/logitech.png)
+![log](assets/blogs/personal/logitech.jpg)
 

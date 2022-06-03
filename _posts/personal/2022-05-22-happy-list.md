@@ -21,7 +21,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 **22nd May 2022:** Almost two years back I lost my watch & wallet to greed. My brother bought me a brand new watch today.
 
-In background, a parting gift from Kishore. He told to me then - "You are a professional now".
+In background, a parting gift from Kishore. He told to me that I was a professional then. Am I now?
 
 ![watch](assets/blogs/personal/photo_2022-05-22_23-13-34.jpg)
 

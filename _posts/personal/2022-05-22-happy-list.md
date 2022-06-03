@@ -31,7 +31,7 @@ In background, a parting gift from Kishore. He told to me - "You are a professio
 
 ### Right Place.
 
-**March 2020:** Early in my career after working 1.5 years alone for my own startup I was fortunate enough to realise - It isn't the code that I write keeps me happy, it is the people with whom I write it with.
+**March 2020:** Early in my career after working 1.5 years alone for my own startup I was fortunate enough to realise that it isn't the code that I write keeps me happy; It is the people with whom I write it with.
 
 ![log](assets/blogs/personal/logitech.jpg)
 

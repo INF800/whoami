@@ -14,6 +14,15 @@ I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/li
 
 Hopefully this **list of small yet meaningful wins** will not only bring joy back into my work but also into my life.
 
+
+<div class="divider"></div>
+
+### Professional Now.
+
+Whilst giving a parting gift Kishore told me, "You are a professional now".
+
+![professional_now](assets/blogs/personal/professional_now.jpeg)
+
 <div class="divider"></div>
 
 ### No Ordinary Moments.

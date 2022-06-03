@@ -19,7 +19,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Professional Now.
 
-Whilst giving a parting gift Kishore told me, "You are a professional now".
+**3rd June 2022:** Whilst giving a parting gift Kishore told me, "You are a professional now".
 
 ![professional_now](assets/blogs/personal/professional_now.jpeg)
 

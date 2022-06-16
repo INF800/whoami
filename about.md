@@ -30,5 +30,3 @@ In the past he was:
 • Invited to Google office to fund his start-up <br/>
 • Engineer intern at Logitech (Bluetooth Low Energy) <br/>
 • Freelancer, independent consultant and much more … <br/>
-
-Thank you for your time. Hope to meet you someday :)

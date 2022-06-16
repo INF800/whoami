@@ -17,6 +17,14 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
+### Home
+
+**16th June 2022:** I decided that I will stay home, closer to my family.
+
+![me](assets/blogs/personal/me.jpg)
+
+Photo by my dad.
+
 ### No Ordinary Moments.
 
 **22nd May 2022:** Almost two years back I lost my watch & wallet to greed. My brother bought me a brand new watch today.

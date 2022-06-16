@@ -17,9 +17,9 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
-### Home
+### Home.
 
-**16th June 2022:** I decided that I will stay home, closer to my family.
+**16th June 2022:** I decided that I will stay home closer to my family and rebuild myself.
 
 ![me](assets/blogs/personal/me.jpg)
 

@@ -19,11 +19,11 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Home.
 
-**16th June 2022:** I decided that I will stay home closer to my family and rebuild myself.
+**16th June 2022:** I decided that I will stay home closer to my family and *rebuild* myself.
 
 ![me](assets/blogs/personal/me.jpg)
 
-Photo by my dad.
+Photo by my *Dad*.
 
 ### No Ordinary Moments.
 

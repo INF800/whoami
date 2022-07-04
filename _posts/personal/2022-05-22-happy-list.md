@@ -17,6 +17,14 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
+### 
+
+**4th July 2022:** Since 2018, I have abused my body; since 2019 I am abusing my mind. As of today, I can build lakhs of rupees worth software in a single month. *ASAP* is in my name. But, I forgot my blood brother's birthday yesterday - This is not what I intend to become. It's time that I acively focus on my *mind & body* even my parents want me to do so, with their help, I hope I get back in shape.
+
+![hunkc](assets/blogs/personal/hunkc.jpg)
+
+Photo by my Dad as on <DATE>
+
 ### Home.
 
 **16th June 2022:** I decided that I will stay home closer to my family and *rebuild* myself.

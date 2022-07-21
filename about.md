@@ -30,3 +30,9 @@ In the past he was:
 • Invited to Google office to fund his start-up <br/>
 • Engineer intern at Logitech (Bluetooth Low Energy) <br/>
 • Freelancer, independent consultant and much more … <br/>
+
+  <div data-pym-src='https://www.jdoodle.com/plugin' data-language="java"
+    data-version-index="4" data-libs="mavenlib1, mavenlib2">
+    Optional default code goes here
+  </div>
+  <script src="https://www.jdoodle.com/assets/jdoodle-pym.min.js" type="text/javascript"></script>

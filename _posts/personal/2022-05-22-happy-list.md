@@ -23,6 +23,9 @@ What Is a Man Who Cannot Take Leap of Faith? Artifical Intelligence & Decentrali
 
 ![bloody-personal](assets/blogs/personal/bloody-personal.jpeg)
 
+
+<div class="divider"></div>
+
 ### Mind & Body.
 
 **4th July 2022:** Since 2018, I have abused my body; since 2019 I am abusing my mind. As of today, I can build lakhs of rupees worth software in a single month. *ASAP* is in my name. But, I forgot my blood brother's birthday yesterday - This is not what I intend to become. It's time that I acively focus on my *mind & body*. Even my parents want me to do so, with their help, I hope to get back in shape.
@@ -31,6 +34,9 @@ What Is a Man Who Cannot Take Leap of Faith? Artifical Intelligence & Decentrali
 
 Photo by my Dad as on Thu, Aug 26, 2021 (*The day of my sister's wedding.*)
 
+
+<div class="divider"></div>
+
 ### Home.
 
 **16th June 2022:** I decided that I will stay home closer to my family and *rebuild* myself.
@@ -38,6 +44,9 @@ Photo by my Dad as on Thu, Aug 26, 2021 (*The day of my sister's wedding.*)
 ![me](assets/blogs/personal/me.jpg)
 
 Photo by my *Dad*.
+
+
+<div class="divider"></div>
 
 ### No Ordinary Moments.
 

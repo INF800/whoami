@@ -19,10 +19,13 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Soul.
 
-What Is a Man Who Cannot Take Leap of Faith? Artifical Intelligence & Decentralized Personal AI is Bloody Personal To Me.
+One of the worst things that a millenial can do is force a *Wrong Ideal* on himself popularized by movies and active / passive marketting gimmiks. Finding an Ideal was very difficult for me until I personally read (I like reading Sanskrit literature ) Valmiki-Ramayana. 
+
+Naradha, the timeless sage's desciption of Ram is what one must call *An Ideal.*
 
 ![bloody-personal](assets/blogs/personal/bloody-personal.jpeg)
 
+Photo of ring gifted to me by my parents to remind me of their unconditional & timeless love.
 
 <div class="divider"></div>
 

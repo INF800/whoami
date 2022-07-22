@@ -17,7 +17,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
-### Bloody Personal.
+### Soul.
 
 What Is a Man Who Cannot Take Leap of Faith? Artifical Intelligence & Decentralized Personal AI is Bloody Personal To Me.
 

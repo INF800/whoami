@@ -19,9 +19,9 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Soul.
 
-One of the worst things that a millenial can do is force a *Wrong Ideal* on himself popularized by movies and active / passive marketting gimmiks. Finding an Ideal was very difficult for me until I personally read (I like reading Sanskrit literature ) Valmiki-Ramayana. 
+**23rd July 2022:** One of the worst things that a millenial can do is force a *Wrong Ideal* on himself popularized by movies or active / passive marketting gimmiks. Finding an Ideal was very difficult for me until I personally read *Valmiki-Ramayana*. 
 
-Naradha, the timeless sage's desciption of Ram is what one must call *An Ideal.*
+*Naradha*, the timeless sage's desciption of Ram is what one must call *An Ideal.*
 
 ![bloody-personal](assets/blogs/personal/bloody-personal.jpeg)
 

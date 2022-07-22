@@ -25,7 +25,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ![bloody-personal](assets/blogs/personal/bloody-personal.jpeg)
 
-Photo of my Dad's ring.
+Photo of my Dad's ring gifted to him by my Mom during difficult times.
 
 <div class="divider"></div>
 

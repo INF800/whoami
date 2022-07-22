@@ -19,7 +19,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Soul.
 
-**23rd July 2022:** One of the worst things that a millenial can do is force a *Wrong Ideal* on himself popularized by movies or active / passive marketting gimmiks. Finding an Ideal was very difficult for me until I personally read *Valmiki-Ramayana*. And be if fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave) and it is in my blood to dance with the Fire God.
+**23rd July 2022:** One of the worst things that a millenial can do is force a *Wrong Ideal* on himself popularized by movies or active / passive marketting gimmiks. Finding an Ideal was very difficult for me until I personally read *Valmiki-Ramayana*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave) and it is in my blood to dance with the Fire God.
 
 *Naradha*, the timeless sage's desciption of Ram is what one must call *An Ideal.*
 

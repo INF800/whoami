@@ -21,9 +21,11 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 **23rd July 2022:** [*Naradha*, the timeless sage's desciption of Shri *Ram*](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1) is what one must call *An Ideal*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave to my family God Shri *Ram*) and it is in my lineage to dance with the Fire God for him.
 
+**24th July 2022:** Kishore (Father of Athreya & a very good Product Engineer at Logitech) told me once that he sees *Fire* in me, and asked to not let go of it. My *Soul* must learn to conquer that *Fire* within and to me that is what *Dancing With Fire* means.
 ![bloody-personal](assets/blogs/personal/bloody-personal.jpeg)
 
 Photo of me wearing my Dad's ring gifted to him by my Mom during difficult times.
+
 
 <div class="divider"></div>
 
@@ -34,7 +36,6 @@ Photo of me wearing my Dad's ring gifted to him by my Mom during difficult times
 ![hunkc](assets/blogs/personal/hunkc.jpg)
 
 Photo by my Dad as on Thu, Aug 26, 2021 (*The day of my sister's wedding.*)
-
 
 <div class="divider"></div>
 

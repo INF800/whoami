@@ -19,7 +19,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Soul.
 
-**23rd July 2022:** [*Naradha*, the timeless sage's desciption of Shri *Ram*](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1) is what one must call *An Ideal*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave to my family God Shri *Ram*) and it is in my lineage to dance with the Fire God for him.
+**23rd July 2022:** [*Naradha*, the timeless sage's desciption of Shri *Ram*](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1) is what one must call *An Ideal*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave to my family God Shri *Ram*) and it is in my lineage to (literally) dance with the Fire God for him.
 
 **24th July 2022:** Kishore (Father of Athreya & a very good Product Engineer at Logitech) told me once that he sees *Fire* in me, and asked me to not let go of it. My *Soul* must learn to conquer that *Fire* within and to me that is what *Dancing With Fire* means.
 

@@ -19,9 +19,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Soul.
 
-**23rd July 2022:** One of the worst things that a millenial can do is force a *Wrong Ideal* on himself popularized by movies or active / passive marketting gimmiks.
-
-[*Naradha*, the timeless sage's desciption of Shri *Ram*](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1) is what one must call *An Ideal*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave to my family God Shri *Ram*) and it is in my lineage to dance with the Fire God for him.
+**23rd July 2022:** [*Naradha*, the timeless sage's desciption of Shri *Ram*](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1) is what one must call *An Ideal*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave to my family God Shri *Ram*) and it is in my lineage to dance with the Fire God for him.
 
 ![bloody-personal](assets/blogs/personal/bloody-personal.jpeg)
 

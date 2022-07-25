@@ -17,7 +17,21 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
-### Soul.
+### The Need.
+
+In the Socratic dialogue *‘Republic’*, Plato famously wrote: *“our need will be the real creator”* (Wikipedia.org, 2020) which was moulded over time into the English proverb *‘Necessity is the mother of invention’*.
+
+His words run **deep**: *"I know this is not appropriate to say but without Covid, I think I woudn't have taken such an action."*
+
+Darkness teaches things that nobody may dare to learn. When I get my life in order I may gift myself with these three *Blue Denim* jeans - 1. Iron Heart, 2. Samurai, and 3. TCB.
+
+![TCB](assets/blogs/personal/tcb-jeans.png)
+
+A snippet taken from [this website](https://tcbjeans.myshopify.com/collections/jackets-1/products/two-cats-blouse-natural-indigo-2). I thank *Fjorde* for letting me know his personal favourite TCB.
+
+<div class="divider"></div>
+
+### The Soul.
 
 **23rd July 2022:** [*Naradha*, the timeless sage's desciption of Shri *Ram*](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=1) is what one must call *An Ideal*. And be it fate, I happen to be *A Dasudu* (Meaning bondman, deacon, devotee, servant or slave to my family God Shri *Ram*) and it is in my lineage to (literally) dance with the [Fire God](https://en.m.wikipedia.org/wiki/Agni) for him.
 

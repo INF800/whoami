@@ -21,9 +21,9 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 In the Socratic dialogue *‘Republic’*, Plato famously wrote: *“our need will be the real creator”* (Wikipedia.org, 2020) which was moulded over time into the English proverb *‘Necessity is the mother of invention’*.
 
-*His* words run **deep**: *"I know this is not appropriate to say but without Covid, I think I woudn't have taken such an action."*
+*His* words run **deep**: *"I know this is not appropriate to say but without Covid, I think I woudn't have taken such an action."* **Darkness** has a *Way* of teaching us things that nobody may even *dare to learn.* 
 
-Darkness teaches things that nobody may dare to learn. When I get my life in order I may gift myself with these three *Blue Denim* jeans - 1. Iron Heart, 2. Samurai, and 3. TCB.
+When I get my life in order I may gift myself with these three *Blue Denim* jeans - 1. Iron Heart, 2. Samurai, and 3. TCB.
 
 ![TCB](assets/blogs/personal/tcb-jeans.png)
 

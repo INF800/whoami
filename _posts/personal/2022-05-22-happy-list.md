@@ -17,6 +17,14 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
+### Enough.
+
+What does it mean when (even if you want to,) you are not able to do things that you are *capable* of doing? Goals are not clearly defined. Goals can only be defined when you know what you want & when you know when it is *enough*.
+
+*Life's under no obligation to give us what we ~expect~ deserve.* I *need* nothing, yet I will set things straight just because I am *capable* of it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a9J8GaeDqVc" frameborder="0" allowfullscreen></iframe>
+
 ### The Need.
 
 In the Socratic dialogue *‘Republic’*, Plato famously wrote: *“our need will be the real creator”* (Wikipedia.org, 2020) which was moulded over time into the English proverb *‘Necessity is the mother of invention’*.

@@ -19,7 +19,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### Enough.
 
-What does it mean when (even if you want to,) you are not able to do things that you are *capable* of doing? Goals are not clearly defined. Goals can only be defined when you know what you want & when you know when it is *enough*.
+**28 July 2019:** What does it mean when (even if you want to,) you are not able to do things that you are *capable* of doing? Goals are not clearly defined. Goals can only be defined when you know what you want & when you know when it is *enough*.
 
 *Life's under no obligation to give us what we ~expect~ deserve.* I *need* nothing, yet I will set things straight just because I am *capable* of it.
 

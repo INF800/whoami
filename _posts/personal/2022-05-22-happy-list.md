@@ -18,7 +18,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 ### The Offence.
 
-**01 August 2022:** I still remember the day when my roommates (from village) came to a common agreement that I will thrive in a city environment but can never live a village life. It offends you when someone says you cannot live in your *own* home.
+**01 August 2022:** I still remember the day when my roommates (from village) came to a common agreement that I will thrive in a city environment but can never live a village life. It offends you when someone says you cannot live at your *own* home.
 
 ![offence](assets/blogs/personal/offence.jpg)
 

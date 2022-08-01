@@ -14,6 +14,15 @@ I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/li
 
 Hopefully this **list of small yet meaningful wins** will not only bring joy back into my work but also into my life.
 
+<div class="divider"></div>
+
+### Offence.
+
+**01 August 2022:** I was offended when my roommates came to a common agreement that I will thrive in a city environment but can never live a village life.
+
+![offence](assets/blogs/personal/offence.jpg)
+
+Dad ploughing neighbour's field using their cattle.
 
 <div class="divider"></div>
 

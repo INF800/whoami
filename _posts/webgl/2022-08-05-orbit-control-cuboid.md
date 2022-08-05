@@ -6,12 +6,12 @@ category:
 ---
 
 
-## Orbit Control Cuboid
+## Orbit Control Cube / Cuboid.
 
 This examplpe shows:
 
 - Modular way to interact with global variables.
-- Using OrbitControls.
+- Using `OrbitControls` to move cube using cursor / screen touch.
 
 <iframe src="https://codesandbox.io/embed/orbit-control-cube-hq2zhc?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"

@@ -20,6 +20,8 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 **01 August 2022:** I still remember the day when my roommates (from village) came to a common agreement that I will thrive in a city environment but can never live a village life. It offends you when someone says you cannot live at your *own* home.
 
+Thanks to Covid, staying *home* forever with family is an option now.
+
 ![offence](assets/blogs/personal/offence.jpg)
 
 Dad ploughing neighbour's field using their cattle.

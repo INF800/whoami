@@ -25,3 +25,5 @@ This example cotains (from https://threejs.org/manual/#en/fundamentals.)
   3js-basics-fundamentals--hello-cuboid</a> by Asapanna Rakesh (<a href="https://codepen.io/rakesh4real">@rakesh4real</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+Click on "Result" button to see the result.

@@ -8,7 +8,7 @@ category:
 
 ## Hello Cuboid
 
-This example cotains (from https://threejs.org/manual/#en/fundamentals.)
+This example contains (from https://threejs.org/manual/#en/fundamentals.)
 
 - Canvas
 - Renderer

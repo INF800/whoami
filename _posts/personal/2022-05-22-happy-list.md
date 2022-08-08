@@ -20,7 +20,9 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 **09 August 2022:** The leap of *blind faith* costs **courage**. Bravery is an easy *reality*, but courage is the gift of *realisation* — not everyone can *afford* to take gifts from the *unknown* & the *madness* that entails that foolish act.
 
-Some stones (*pages of life*) must be left unturned because the *lesson is simple yet the student is complicated.*
+Some stones (*pages of life*) must be left unturned because the *lesson is simple yet the student is complicated.* 
+
+I hope one day I muster up enough corage to complete this book & find my *Joy*.
 
 ![cutting-free](assets/blogs/personal/cutting-free.jpg)
 

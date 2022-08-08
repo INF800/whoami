@@ -16,6 +16,16 @@ Hopefully this **list of small yet meaningful wins** will not only bring joy bac
 
 <div class="divider"></div>
 
+### Cutting Free.
+
+**09 August 2022:** The leap of *blind faith* costs **courage**. Bravery is an easy *reality*, but courage is the gift of *realisation* — not everyone can *afford* to take gifts from the *unknown*.
+
+![cutting-free](assets/blogs/personal/cutting-free.jpg)
+
+A snippet from *Way of the Peaceful Warrior: A Book That Changes Lives* by Dan Millman (My *Soc.*)
+
+<div class="divider"></div>
+
 ### The Offence.
 
 **01 August 2022:** I still remember the day when my roommates (from village) came to a common agreement that I will thrive in a city environment but can never live a village life. It offends you when someone says you cannot live at your *own* home.

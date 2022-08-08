@@ -32,7 +32,7 @@ Dad ploughing neighbour's field using their cattle.
 
 **28 July 2019:** What does it mean when (even if you want to,) you are not able to do things that you are *capable* of doing? Goals are not clearly defined. Goals can only be defined when you know what you want & when you know when it is *enough*.
 
-*Life's under no obligation to give us what we <s>expect</s> deserve.* I *need* nothing, yet I will set things straight just because I am *capable* of it.
+*Life's under no obligation to give us what we <s>expect</s>* deserve. I *need* nothing, yet I will set things straight just because I am *capable* of it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a9J8GaeDqVc" frameborder="0" allowfullscreen></iframe>
 

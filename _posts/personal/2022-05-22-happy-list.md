@@ -22,7 +22,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring *Joy* b
 
 Some stones (*pages of life*) must be left unturned because the *lesson is simple yet the student is complicated.* 
 
-I hope one day I muster up enough corage to complete this book & find my *Joy*.
+I hope one day I muster up enough **courage** to complete this book & find my *Joy*.
 
 ![cutting-free](assets/blogs/personal/cutting-free.jpg)
 

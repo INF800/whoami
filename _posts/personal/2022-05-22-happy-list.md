@@ -20,7 +20,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring *Joy* b
 
 **09 August 2022:** The leap of *blind faith* costs **courage**. Bravery is an easy *reality*, but courage is the gift of *realisation* — not everyone can *afford* to take gifts from the *unknown* — And definitely no one should dare to *afford the madness* that these foolish acts entail. Some stones (*pages of life*) must be left unturned because the *lesson is simple yet the student is complicated.*  
 
-I hope one day I [muster up](https://dictionary.cambridge.org/dictionary/english/muster-up) enough **courage** to complete this book & find my *Joy* in time.
+I hope one day I [muster up](https://dictionary.cambridge.org/dictionary/english/muster-up) enough **courage** to turn this page.
 
 ![cutting-free](assets/blogs/personal/cutting-free.jpg)
 

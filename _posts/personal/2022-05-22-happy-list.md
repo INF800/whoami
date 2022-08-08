@@ -12,7 +12,7 @@ I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/li
 
 ![snip001](assets/blogs/personal/photo_2022-05-22_23-13-38.jpg)
 
-Hopefully this **list of small yet meaningful wins** will not only bring joy back into my work but also into my life.
+Hopefully this **list of small yet meaningful wins** will not only bring *Joy* back into my work but also into my life.
 
 <div class="divider"></div>
 

@@ -18,7 +18,7 @@ Hopefully this **list of small yet meaningful wins** will not only bring *Joy* b
 
 ### Epitaph.
 
-**09 August 2022:** There is *valour* in fighting for what to truly l0ve, and there is *Visitant Joy* in losing that war knowing that you will someday.
+**09 August 2022:** There is *valour* in fighting for what you truly l0ve, and there is *Visitant Joy* in losing that war even if you could have won.
 
 ![valour](assets/blogs/personal/valour.png)
 

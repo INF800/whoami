@@ -5,7 +5,6 @@ category:
 - Personal
 ---
 
-
 ## Background
 
 I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)* and a small snippet shown below resonated with me, my thoughts and my hustle since past couple of years.
@@ -13,6 +12,18 @@ I was reading *[High Performance Python, 2nd Edition](https://www.oreilly.com/li
 ![snip001](assets/blogs/personal/photo_2022-05-22_23-13-38.jpg)
 
 Hopefully this **list of small yet meaningful wins** will not only bring *Joy* back into my work but also into my life.
+
+<div class="divider"></div>
+
+### Vishakhamas (*Vyshakha-maas*)
+
+**TIMELESS:** When would *FeMothra* arrive if not *NOW*? 
+
+Bravery is not in slaying the WHITEDR4G0N. Children **play** for fun, men **f8** (*fight*) till the end of time for *infinite-justice* (**INF8**). 
+
+![bravery](assets/blogs/personal/man's-game.png)
+
+Life is no child's play, it is a MAN's game.
 
 <div class="divider"></div>
 

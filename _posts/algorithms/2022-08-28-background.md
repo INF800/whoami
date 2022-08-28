@@ -8,6 +8,6 @@ category:
 
 ## Background
 
-We will follow a book by *Antti Laaksonen* named *Guide to Competitive Programming - Learning & Improving algorithms through contests.*
+We will follow a book by *Antti Laaksonen* named *Guide to Competitive Programming - Learning & Improving Algorithms Through Contests.*
 
 At [CSES problem set page](https://cses.fi/problemset/) you may find practice problems arranged in the order of difficulty level.

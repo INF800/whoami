@@ -1,6 +1,6 @@
 ---
 title: Weird Algorithm
-updated: 2022-08-28 23:37
+updated: 2022-08-28 23:55
 category: 
 - Algorithms
 ---

@@ -1,5 +1,5 @@
 ---
-title: Algorithms in C++
+title: Introduction
 updated: 2022-08-28 23:37
 category: 
 - Algorithms
@@ -8,6 +8,6 @@ category:
 
 ## Background
 
+We will follow a book by *Antti Laaksonen* named *Guide to Competitive Programming - Learning & Improving algorithms through contests.*
 
-## C++ Language Features
-
+At [CSES problem set page](https://cses.fi/problemset/) you may find practice problems arranged in the order of difficulty level.

@@ -8,6 +8,7 @@ category:
 ## Problem 
 
 <iframe src="https://cses.fi/problemset/task/1068" title="Weird"  height="600"></iframe>
+source: https://cses.fi/
 
 ## Solution.
 

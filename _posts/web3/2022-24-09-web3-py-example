@@ -1,0 +1,112 @@
+---
+title: Web3.py
+updated: 2022-09-24 23:37
+category: 
+- Web3
+---
+
+## Setup `eth-brownie`
+
+Let us build a simple web3 application using **Brownie** and **Ganache** for *simple storage application* which stores any given value.
+
+create a folder for project and then open vs code in that directory.
+
+```
+mkdir brownie_simple_storage
+code brownie_simple_storage
+```
+
+(Recommended) Install brownie with `pipx` for virtual environment. 
+
+Just go to the terminal and run the following:
+
+```
+python3 -m pip install --user pipx
+python3 -m pipx ensurepath 
+```
+
+And then install brownie.
+
+```
+pipx install eth-brownie
+```
+
+Check if installed correctly using 
+
+```
+brownie --version
+```
+
+## Setup Ganache
+
+Install ganache from it's website and spawn a local blockchain for development purposes.
+
+## Create a Project
+
+Required steps:
+
+1. Create folder structure
+2. Write a contract 
+2. Compile the contract
+
+Run ```brownie init``` to create a series of folders for project. It may create the following folders:
+
+```
++ build 
+    + contracts     (saves all built contracts)
+    + deployments   (automates all deployments)
+    + interfaces    
++ contracts         (all contracts are written here)
++ interfaces        (makes it super easy to interact with other apps)
++ reports           (basic reports)
++ scripts           (automation scripts)
++ tests             (tests all contracts)
++ .gitattributes
++ .gitignore
+```
+
+Then write your contract in the `contracts` folder in main level.
+
+`contracts/SimpleStorage.sol`
+```
+// SPDX-License-Identifier: MIT
+
+pragma solidity >=0.6.0 <0.9.0;
+
+contract SimpleStorage {
+
+    uint256 favoriteNumber;
+
+    // This is a comment!
+    struct People {
+        uint256 favoriteNumber;
+        string name;
+    }
+
+    People[] public people;
+    mapping(string => uint256) public nameToFavoriteNumber;
+
+    function store(uint256 _favoriteNumber) public {
+        favoriteNumber = _favoriteNumber;
+    }
+    
+    function retrieve() public view returns (uint256){
+        return favoriteNumber;
+    }
+
+    function addPerson(string memory _name, uint256 _favoriteNumber) public {
+        people.push(People(_favoriteNumber, _name));
+        nameToFavoriteNumber[_name] = _favoriteNumber;
+    }
+}
+```
+
+and then run
+
+```
+brownie compile
+```
+
+You may see `json` file for the contracts in the contracts dir.
+
+

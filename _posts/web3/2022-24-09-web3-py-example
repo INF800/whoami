@@ -47,7 +47,9 @@ Required steps:
 
 1. Create folder structure
 2. Write a contract 
-2. Compile the contract
+3. Compile the contract
+4. Write deployment script
+
 
 Run ```brownie init``` to create a series of folders for project. It may create the following folders:
 
@@ -110,3 +112,23 @@ brownie compile
 You may see `json` file for the contracts in the contracts dir.
 
 
+### Deployment Script
+
+goto `scripts` folder and write a simple deployment script. 
+
+> In `web3.py` version we did everything manually which are automated for us.
+> - Compilation
+> - Dumped to a file
+> - ABI & Bytecode
+> - Spawing & stopping ganache
+> - Get private & public addresses
+> - deploy simple storage
+
+`scripts/deploy.py`
+
+```
+```
+
+and run `brownie run scripts/deploy.py`
+
+> brownie independantly create a ganache server and turns it down after use. Everything is made simple for us.

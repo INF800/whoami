@@ -142,7 +142,7 @@ title: Blog
 		{% endfor %}
 	{% endfor %}
 
-<!-- 	
+
 	<h3 class="code">Personal</h3>
 	{% for post in site.posts %}
 		{% for c in post.categories %}
@@ -161,7 +161,7 @@ title: Blog
 			
 			{% endif %}
 		{% endfor %}
-	{% endfor %} -->
+	{% endfor %} 
 	
 	
 	<!-- 

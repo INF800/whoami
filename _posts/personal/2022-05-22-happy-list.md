@@ -15,20 +15,6 @@ Hopefully this **list of small yet meaningful wins** will not only bring *Joy* b
 
 <div class="divider"></div>
 
-### Vishakhamas (*Vyshakha-maas*)
-
-**TIMELESS:** When would *FeMothra* arrive if not *NOW*? 
-
-Bravery is not in slaying the WHITEDR4G0N. Children **play** for fun, men **f8** (*fight*) till the end of time for *infinite-justice* (**INF8**). The pill that *Neo* - The greatest h4ck3r of their time in movie *The Matrix* was supposed to accept was *neither blue nor red*; Itwas **GR33N**.
-
-![bravery](assets/blogs/personal/man's-game.png)
-
-Life is no child's play, it is a MAN's game.
-
-![WH1T3DR4G0N](assets/WH1T3GR4G0N-1S-Y0U.gif)
-
-<div class="divider"></div>
-
 ### Epitaph.
 
 **09 August 2022:** There is *valour* in fighting for what you truly l0ve, and there is *Visitant Joy* in losing that war.

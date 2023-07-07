@@ -125,9 +125,11 @@ Photo by my *Dad*.
 
 ### A Sense of Purpose.
 
-**July 2023:** Almost 1 year since I decided to **rebuild** myself and now given I know that *I have changed* (for better or worse) - starting to question if I was better off living in oblivion - just me, my code and my *far-fetched* dreams & ambitions. I don't know what hurts the most, is it the fact that my dreams & ambitions were unreasonably foolish to come true or the fact that I gave up on them.
+**7th July 2023:** Almost 1 year since I decided to **rebuild** myself and now given I know that *I have changed* (for better or worse) - starting to question if I was better off living in oblivion - just me, my code and my *far-fetched* dreams & ambitions. I don't know what hurts the most, is it the fact that my dreams & ambitions were unreasonably foolish to come true or the fact that I gave up on them.
+
+![log](assets/blogs/personal/simple-life.jpg)
 
 <br>
 <br>
 
-Nonetheless, ironically more so, this the the End of my *Happy List*.
+A fresh start I guess. Now, all I want is a simple and *Happy* life.

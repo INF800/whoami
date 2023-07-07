@@ -129,7 +129,4 @@ Photo by my *Dad*.
 
 ![log](assets/blogs/personal/simple-life.jpg)
 
-<br>
-<br>
-
 A fresh start I guess. Now, all I want is a simple and *Happy* life.

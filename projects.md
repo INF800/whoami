@@ -12,6 +12,15 @@ title: Projects
 	<div></div>
 </section>
 
+### Simple Queue Visualization
+
+![queue](assets/projs/queue-crop-cut.gif)
+
+[[GitHub]](https://github.com/INF800/dsa-threejs/blob/main/queue/00-simple-queue/index.html) [[Live]](https://inf800.github.io/dsa-threejs/queue/00-simple-queue/)
+
+<div class="divider"></div>
+
+
 ### Market + Tech = MarkTech
 
 ![tlb](assets/projs/4x.gif)

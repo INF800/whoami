@@ -18,6 +18,8 @@ title: Projects
 
 [[GitHub]](https://github.com/INF800/dsa-threejs/blob/main/queue/00-simple-queue/index.html) [[Live]](https://inf800.github.io/dsa-threejs/queue/00-simple-queue/)
 
+ThreeJS 3D visualisation for a simple queue.
+
 <div class="divider"></div>
 
 
@@ -27,18 +29,21 @@ title: Projects
 
 Market scraping, analytics and prediction [[GitHub]](https://github.com/INF800/marktech)
 
+<div class="divider"></div>
 
 ### Motion Capture
 ![tm](assets/projs/demo.gif)
 
 Motion capture built for [Crejo.fun](https://crejo.fun)
 
+<div class="divider"></div>
 
 ### Gesture Recognition
 ![tm](assets/projs/gesture_recognition_unoptimized.gif)
 
 Realtime client-side gesture recognition built for [Crejo.fun](https://crejo.fun)
 
+<div class="divider"></div>
 
 ### Doodle Recognition
 
@@ -46,11 +51,15 @@ Realtime client-side gesture recognition built for [Crejo.fun](https://crejo.fun
 
 Doodle Recognition with top 3 accuracy > 97% for 61 classes. Built with Tensorflow, ReactJS and FastAPI [[GitHub]](https://github.com/INF800/qdraw)
 
+<div class="divider"></div>
+
 ### Q-Learning
 
 ![tm](assets/blogs/rf/after.gif)
 
 Q-Learning implementation from scratch using Numpy, FastAPI and ReactJS. [[Blog]](https://INF800.github.io/whoami/q-learning) [[GitHub]](https://github.com/INF800/game-one)
+
+<div class="divider"></div>
 
 ### Teachable Machine
 

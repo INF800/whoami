@@ -28,7 +28,7 @@ In the past he was:
 • FOSS contributor for google flax, intel open3d-ml etc. <br/>
 • Invited to Google office to fund his start-up <br/>
 • Engineer intern at Logitech (Bluetooth Low Energy) <br/>
-• Freelancer, independent consultant and much more … <br/>
+• Freelancer, independent consultant & …etc. <br/>
 
   <!-- <div data-pym-src='https://www.jdoodle.com/plugin' data-language="java"
     data-version-index="4" data-libs="mavenlib1, mavenlib2">
